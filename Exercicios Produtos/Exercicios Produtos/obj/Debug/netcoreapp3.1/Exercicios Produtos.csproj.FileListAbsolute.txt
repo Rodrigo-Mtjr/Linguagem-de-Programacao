@@ -1,0 +1,14 @@
+D:\Aulas\C# AULAS\Exercicios Produtos\Exercicios Produtos\bin\Debug\netcoreapp3.1\Exercicios Produtos.exe
+D:\Aulas\C# AULAS\Exercicios Produtos\Exercicios Produtos\bin\Debug\netcoreapp3.1\Exercicios Produtos.deps.json
+D:\Aulas\C# AULAS\Exercicios Produtos\Exercicios Produtos\bin\Debug\netcoreapp3.1\Exercicios Produtos.runtimeconfig.json
+D:\Aulas\C# AULAS\Exercicios Produtos\Exercicios Produtos\bin\Debug\netcoreapp3.1\Exercicios Produtos.runtimeconfig.dev.json
+D:\Aulas\C# AULAS\Exercicios Produtos\Exercicios Produtos\bin\Debug\netcoreapp3.1\Exercicios Produtos.dll
+D:\Aulas\C# AULAS\Exercicios Produtos\Exercicios Produtos\bin\Debug\netcoreapp3.1\Exercicios Produtos.pdb
+D:\Aulas\C# AULAS\Exercicios Produtos\Exercicios Produtos\obj\Debug\netcoreapp3.1\Exercicios Produtos.csproj.AssemblyReference.cache
+D:\Aulas\C# AULAS\Exercicios Produtos\Exercicios Produtos\obj\Debug\netcoreapp3.1\Exercicios Produtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\C# AULAS\Exercicios Produtos\Exercicios Produtos\obj\Debug\netcoreapp3.1\Exercicios Produtos.AssemblyInfoInputs.cache
+D:\Aulas\C# AULAS\Exercicios Produtos\Exercicios Produtos\obj\Debug\netcoreapp3.1\Exercicios Produtos.AssemblyInfo.cs
+D:\Aulas\C# AULAS\Exercicios Produtos\Exercicios Produtos\obj\Debug\netcoreapp3.1\Exercicios Produtos.csproj.CoreCompileInputs.cache
+D:\Aulas\C# AULAS\Exercicios Produtos\Exercicios Produtos\obj\Debug\netcoreapp3.1\Exercicios Produtos.dll
+D:\Aulas\C# AULAS\Exercicios Produtos\Exercicios Produtos\obj\Debug\netcoreapp3.1\Exercicios Produtos.pdb
+D:\Aulas\C# AULAS\Exercicios Produtos\Exercicios Produtos\obj\Debug\netcoreapp3.1\Exercicios Produtos.genruntimeconfig.cache

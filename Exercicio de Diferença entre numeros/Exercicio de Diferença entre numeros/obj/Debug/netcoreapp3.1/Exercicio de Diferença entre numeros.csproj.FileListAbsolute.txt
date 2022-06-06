@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Diferença entre numeros\Exercicio de Diferença entre numeros\bin\Debug\netcoreapp3.1\Exercicio de Diferença entre numeros.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Diferença entre numeros\Exercicio de Diferença entre numeros\bin\Debug\netcoreapp3.1\Exercicio de Diferença entre numeros.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Diferença entre numeros\Exercicio de Diferença entre numeros\bin\Debug\netcoreapp3.1\Exercicio de Diferença entre numeros.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Diferença entre numeros\Exercicio de Diferença entre numeros\bin\Debug\netcoreapp3.1\Exercicio de Diferença entre numeros.runtimeconfig.dev.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Diferença entre numeros\Exercicio de Diferença entre numeros\bin\Debug\netcoreapp3.1\Exercicio de Diferença entre numeros.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Diferença entre numeros\Exercicio de Diferença entre numeros\bin\Debug\netcoreapp3.1\Exercicio de Diferença entre numeros.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Diferença entre numeros\Exercicio de Diferença entre numeros\obj\Debug\netcoreapp3.1\Exercicio de Diferença entre numeros.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Diferença entre numeros\Exercicio de Diferença entre numeros\obj\Debug\netcoreapp3.1\Exercicio de Diferença entre numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Diferença entre numeros\Exercicio de Diferença entre numeros\obj\Debug\netcoreapp3.1\Exercicio de Diferença entre numeros.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Diferença entre numeros\Exercicio de Diferença entre numeros\obj\Debug\netcoreapp3.1\Exercicio de Diferença entre numeros.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Diferença entre numeros\Exercicio de Diferença entre numeros\obj\Debug\netcoreapp3.1\Exercicio de Diferença entre numeros.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Diferença entre numeros\Exercicio de Diferença entre numeros\obj\Debug\netcoreapp3.1\Exercicio de Diferença entre numeros.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Diferença entre numeros\Exercicio de Diferença entre numeros\obj\Debug\netcoreapp3.1\Exercicio de Diferença entre numeros.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Diferença entre numeros\Exercicio de Diferença entre numeros\obj\Debug\netcoreapp3.1\Exercicio de Diferença entre numeros.genruntimeconfig.cache

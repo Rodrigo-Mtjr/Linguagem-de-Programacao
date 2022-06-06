@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores Aritmeticos\Operadores Aritmeticos\bin\Debug\netcoreapp3.1\Operadores Aritmeticos.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores Aritmeticos\Operadores Aritmeticos\bin\Debug\netcoreapp3.1\Operadores Aritmeticos.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores Aritmeticos\Operadores Aritmeticos\bin\Debug\netcoreapp3.1\Operadores Aritmeticos.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores Aritmeticos\Operadores Aritmeticos\bin\Debug\netcoreapp3.1\Operadores Aritmeticos.runtimeconfig.dev.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores Aritmeticos\Operadores Aritmeticos\bin\Debug\netcoreapp3.1\Operadores Aritmeticos.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores Aritmeticos\Operadores Aritmeticos\bin\Debug\netcoreapp3.1\Operadores Aritmeticos.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\netcoreapp3.1\Operadores Aritmeticos.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\netcoreapp3.1\Operadores Aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\netcoreapp3.1\Operadores Aritmeticos.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\netcoreapp3.1\Operadores Aritmeticos.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\netcoreapp3.1\Operadores Aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\netcoreapp3.1\Operadores Aritmeticos.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\netcoreapp3.1\Operadores Aritmeticos.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\netcoreapp3.1\Operadores Aritmeticos.genruntimeconfig.cache

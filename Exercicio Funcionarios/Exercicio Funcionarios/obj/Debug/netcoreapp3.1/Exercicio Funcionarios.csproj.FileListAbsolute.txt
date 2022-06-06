@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio Funcionarios\Exercicio Funcionarios\obj\Debug\netcoreapp3.1\Exercicio Funcionarios.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio Funcionarios\Exercicio Funcionarios\obj\Debug\netcoreapp3.1\Exercicio Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio Funcionarios\Exercicio Funcionarios\obj\Debug\netcoreapp3.1\Exercicio Funcionarios.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio Funcionarios\Exercicio Funcionarios\obj\Debug\netcoreapp3.1\Exercicio Funcionarios.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio Funcionarios\Exercicio Funcionarios\obj\Debug\netcoreapp3.1\Exercicio Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio Funcionarios\Exercicio Funcionarios\bin\Debug\netcoreapp3.1\Exercicio Funcionarios.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio Funcionarios\Exercicio Funcionarios\bin\Debug\netcoreapp3.1\Exercicio Funcionarios.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio Funcionarios\Exercicio Funcionarios\bin\Debug\netcoreapp3.1\Exercicio Funcionarios.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio Funcionarios\Exercicio Funcionarios\bin\Debug\netcoreapp3.1\Exercicio Funcionarios.runtimeconfig.dev.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio Funcionarios\Exercicio Funcionarios\bin\Debug\netcoreapp3.1\Exercicio Funcionarios.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio Funcionarios\Exercicio Funcionarios\bin\Debug\netcoreapp3.1\Exercicio Funcionarios.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio Funcionarios\Exercicio Funcionarios\obj\Debug\netcoreapp3.1\Exercicio Funcionarios.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio Funcionarios\Exercicio Funcionarios\obj\Debug\netcoreapp3.1\Exercicio Funcionarios.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio Funcionarios\Exercicio Funcionarios\obj\Debug\netcoreapp3.1\Exercicio Funcionarios.genruntimeconfig.cache

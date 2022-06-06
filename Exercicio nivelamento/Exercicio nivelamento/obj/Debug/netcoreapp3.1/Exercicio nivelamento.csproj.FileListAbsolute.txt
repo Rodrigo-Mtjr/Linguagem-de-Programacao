@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio nivelamento\Exercicio nivelamento\bin\Debug\netcoreapp3.1\Exercicio nivelamento.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio nivelamento\Exercicio nivelamento\bin\Debug\netcoreapp3.1\Exercicio nivelamento.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio nivelamento\Exercicio nivelamento\bin\Debug\netcoreapp3.1\Exercicio nivelamento.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio nivelamento\Exercicio nivelamento\bin\Debug\netcoreapp3.1\Exercicio nivelamento.runtimeconfig.dev.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio nivelamento\Exercicio nivelamento\bin\Debug\netcoreapp3.1\Exercicio nivelamento.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio nivelamento\Exercicio nivelamento\bin\Debug\netcoreapp3.1\Exercicio nivelamento.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio nivelamento\Exercicio nivelamento\obj\Debug\netcoreapp3.1\Exercicio nivelamento.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio nivelamento\Exercicio nivelamento\obj\Debug\netcoreapp3.1\Exercicio nivelamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio nivelamento\Exercicio nivelamento\obj\Debug\netcoreapp3.1\Exercicio nivelamento.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio nivelamento\Exercicio nivelamento\obj\Debug\netcoreapp3.1\Exercicio nivelamento.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio nivelamento\Exercicio nivelamento\obj\Debug\netcoreapp3.1\Exercicio nivelamento.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio nivelamento\Exercicio nivelamento\obj\Debug\netcoreapp3.1\Exercicio nivelamento.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio nivelamento\Exercicio nivelamento\obj\Debug\netcoreapp3.1\Exercicio nivelamento.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio nivelamento\Exercicio nivelamento\obj\Debug\netcoreapp3.1\Exercicio nivelamento.genruntimeconfig.cache
