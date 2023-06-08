@@ -1,0 +1,14 @@
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Problema 2 - produtos e estoque\Problema 2 - produtos e estoque\bin\Debug\netcoreapp3.1\Problema 2 - produtos e estoque.exe
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Problema 2 - produtos e estoque\Problema 2 - produtos e estoque\bin\Debug\netcoreapp3.1\Problema 2 - produtos e estoque.deps.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Problema 2 - produtos e estoque\Problema 2 - produtos e estoque\bin\Debug\netcoreapp3.1\Problema 2 - produtos e estoque.runtimeconfig.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Problema 2 - produtos e estoque\Problema 2 - produtos e estoque\bin\Debug\netcoreapp3.1\Problema 2 - produtos e estoque.runtimeconfig.dev.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Problema 2 - produtos e estoque\Problema 2 - produtos e estoque\bin\Debug\netcoreapp3.1\Problema 2 - produtos e estoque.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Problema 2 - produtos e estoque\Problema 2 - produtos e estoque\bin\Debug\netcoreapp3.1\Problema 2 - produtos e estoque.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Problema 2 - produtos e estoque\Problema 2 - produtos e estoque\obj\Debug\netcoreapp3.1\Problema 2 - produtos e estoque.csproj.AssemblyReference.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Problema 2 - produtos e estoque\Problema 2 - produtos e estoque\obj\Debug\netcoreapp3.1\Problema 2 - produtos e estoque.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Problema 2 - produtos e estoque\Problema 2 - produtos e estoque\obj\Debug\netcoreapp3.1\Problema 2 - produtos e estoque.AssemblyInfoInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Problema 2 - produtos e estoque\Problema 2 - produtos e estoque\obj\Debug\netcoreapp3.1\Problema 2 - produtos e estoque.AssemblyInfo.cs
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Problema 2 - produtos e estoque\Problema 2 - produtos e estoque\obj\Debug\netcoreapp3.1\Problema 2 - produtos e estoque.csproj.CoreCompileInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Problema 2 - produtos e estoque\Problema 2 - produtos e estoque\obj\Debug\netcoreapp3.1\Problema 2 - produtos e estoque.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Problema 2 - produtos e estoque\Problema 2 - produtos e estoque\obj\Debug\netcoreapp3.1\Problema 2 - produtos e estoque.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Problema 2 - produtos e estoque\Problema 2 - produtos e estoque\obj\Debug\netcoreapp3.1\Problema 2 - produtos e estoque.genruntimeconfig.cache

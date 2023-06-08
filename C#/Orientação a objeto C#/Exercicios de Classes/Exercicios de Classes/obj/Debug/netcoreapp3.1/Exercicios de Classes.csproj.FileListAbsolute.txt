@@ -1,0 +1,14 @@
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios de Classes\Exercicios de Classes\bin\Debug\netcoreapp3.1\Exercicios de Classes.exe
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios de Classes\Exercicios de Classes\bin\Debug\netcoreapp3.1\Exercicios de Classes.deps.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios de Classes\Exercicios de Classes\bin\Debug\netcoreapp3.1\Exercicios de Classes.runtimeconfig.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios de Classes\Exercicios de Classes\bin\Debug\netcoreapp3.1\Exercicios de Classes.runtimeconfig.dev.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios de Classes\Exercicios de Classes\bin\Debug\netcoreapp3.1\Exercicios de Classes.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios de Classes\Exercicios de Classes\bin\Debug\netcoreapp3.1\Exercicios de Classes.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios de Classes\Exercicios de Classes\obj\Debug\netcoreapp3.1\Exercicios de Classes.csproj.AssemblyReference.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios de Classes\Exercicios de Classes\obj\Debug\netcoreapp3.1\Exercicios de Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios de Classes\Exercicios de Classes\obj\Debug\netcoreapp3.1\Exercicios de Classes.AssemblyInfoInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios de Classes\Exercicios de Classes\obj\Debug\netcoreapp3.1\Exercicios de Classes.AssemblyInfo.cs
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios de Classes\Exercicios de Classes\obj\Debug\netcoreapp3.1\Exercicios de Classes.csproj.CoreCompileInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios de Classes\Exercicios de Classes\obj\Debug\netcoreapp3.1\Exercicios de Classes.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios de Classes\Exercicios de Classes\obj\Debug\netcoreapp3.1\Exercicios de Classes.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios de Classes\Exercicios de Classes\obj\Debug\netcoreapp3.1\Exercicios de Classes.genruntimeconfig.cache

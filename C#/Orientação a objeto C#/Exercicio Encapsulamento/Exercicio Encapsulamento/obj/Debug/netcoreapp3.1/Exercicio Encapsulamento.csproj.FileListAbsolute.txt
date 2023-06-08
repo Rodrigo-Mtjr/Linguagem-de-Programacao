@@ -1,0 +1,14 @@
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Encapsulamento\Exercicio Encapsulamento\bin\Debug\netcoreapp3.1\Exercicio Encapsulamento.exe
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Encapsulamento\Exercicio Encapsulamento\bin\Debug\netcoreapp3.1\Exercicio Encapsulamento.deps.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Encapsulamento\Exercicio Encapsulamento\bin\Debug\netcoreapp3.1\Exercicio Encapsulamento.runtimeconfig.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Encapsulamento\Exercicio Encapsulamento\bin\Debug\netcoreapp3.1\Exercicio Encapsulamento.runtimeconfig.dev.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Encapsulamento\Exercicio Encapsulamento\bin\Debug\netcoreapp3.1\Exercicio Encapsulamento.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Encapsulamento\Exercicio Encapsulamento\bin\Debug\netcoreapp3.1\Exercicio Encapsulamento.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Encapsulamento\Exercicio Encapsulamento\obj\Debug\netcoreapp3.1\Exercicio Encapsulamento.csproj.AssemblyReference.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Encapsulamento\Exercicio Encapsulamento\obj\Debug\netcoreapp3.1\Exercicio Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Encapsulamento\Exercicio Encapsulamento\obj\Debug\netcoreapp3.1\Exercicio Encapsulamento.AssemblyInfoInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Encapsulamento\Exercicio Encapsulamento\obj\Debug\netcoreapp3.1\Exercicio Encapsulamento.AssemblyInfo.cs
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Encapsulamento\Exercicio Encapsulamento\obj\Debug\netcoreapp3.1\Exercicio Encapsulamento.csproj.CoreCompileInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Encapsulamento\Exercicio Encapsulamento\obj\Debug\netcoreapp3.1\Exercicio Encapsulamento.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Encapsulamento\Exercicio Encapsulamento\obj\Debug\netcoreapp3.1\Exercicio Encapsulamento.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Encapsulamento\Exercicio Encapsulamento\obj\Debug\netcoreapp3.1\Exercicio Encapsulamento.genruntimeconfig.cache

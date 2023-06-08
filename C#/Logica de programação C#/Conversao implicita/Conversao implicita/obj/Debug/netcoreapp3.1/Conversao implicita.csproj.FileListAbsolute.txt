@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Conversao implicita\Conversao implicita\bin\Debug\netcoreapp3.1\Conversao implicita.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Conversao implicita\Conversao implicita\bin\Debug\netcoreapp3.1\Conversao implicita.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Conversao implicita\Conversao implicita\bin\Debug\netcoreapp3.1\Conversao implicita.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Conversao implicita\Conversao implicita\bin\Debug\netcoreapp3.1\Conversao implicita.runtimeconfig.dev.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Conversao implicita\Conversao implicita\bin\Debug\netcoreapp3.1\Conversao implicita.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Conversao implicita\Conversao implicita\bin\Debug\netcoreapp3.1\Conversao implicita.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Conversao implicita\Conversao implicita\obj\Debug\netcoreapp3.1\Conversao implicita.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Conversao implicita\Conversao implicita\obj\Debug\netcoreapp3.1\Conversao implicita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Conversao implicita\Conversao implicita\obj\Debug\netcoreapp3.1\Conversao implicita.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Conversao implicita\Conversao implicita\obj\Debug\netcoreapp3.1\Conversao implicita.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Conversao implicita\Conversao implicita\obj\Debug\netcoreapp3.1\Conversao implicita.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Conversao implicita\Conversao implicita\obj\Debug\netcoreapp3.1\Conversao implicita.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Conversao implicita\Conversao implicita\obj\Debug\netcoreapp3.1\Conversao implicita.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Conversao implicita\Conversao implicita\obj\Debug\netcoreapp3.1\Conversao implicita.genruntimeconfig.cache

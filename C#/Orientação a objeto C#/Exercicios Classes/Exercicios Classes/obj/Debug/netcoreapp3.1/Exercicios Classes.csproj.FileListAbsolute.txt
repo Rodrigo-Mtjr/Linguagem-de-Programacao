@@ -1,0 +1,14 @@
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Classes\Exercicios Classes\bin\Debug\netcoreapp3.1\Exercicios Classes.exe
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Classes\Exercicios Classes\bin\Debug\netcoreapp3.1\Exercicios Classes.deps.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Classes\Exercicios Classes\bin\Debug\netcoreapp3.1\Exercicios Classes.runtimeconfig.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Classes\Exercicios Classes\bin\Debug\netcoreapp3.1\Exercicios Classes.runtimeconfig.dev.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Classes\Exercicios Classes\bin\Debug\netcoreapp3.1\Exercicios Classes.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Classes\Exercicios Classes\bin\Debug\netcoreapp3.1\Exercicios Classes.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Classes\Exercicios Classes\obj\Debug\netcoreapp3.1\Exercicios Classes.csproj.AssemblyReference.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Classes\Exercicios Classes\obj\Debug\netcoreapp3.1\Exercicios Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Classes\Exercicios Classes\obj\Debug\netcoreapp3.1\Exercicios Classes.AssemblyInfoInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Classes\Exercicios Classes\obj\Debug\netcoreapp3.1\Exercicios Classes.AssemblyInfo.cs
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Classes\Exercicios Classes\obj\Debug\netcoreapp3.1\Exercicios Classes.csproj.CoreCompileInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Classes\Exercicios Classes\obj\Debug\netcoreapp3.1\Exercicios Classes.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Classes\Exercicios Classes\obj\Debug\netcoreapp3.1\Exercicios Classes.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Classes\Exercicios Classes\obj\Debug\netcoreapp3.1\Exercicios Classes.genruntimeconfig.cache

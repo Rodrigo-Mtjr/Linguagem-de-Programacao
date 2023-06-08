@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\exercicios 1\exercicios 1\bin\Debug\netcoreapp3.1\exercicios 1.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\exercicios 1\exercicios 1\bin\Debug\netcoreapp3.1\exercicios 1.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\exercicios 1\exercicios 1\bin\Debug\netcoreapp3.1\exercicios 1.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\exercicios 1\exercicios 1\bin\Debug\netcoreapp3.1\exercicios 1.runtimeconfig.dev.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\exercicios 1\exercicios 1\bin\Debug\netcoreapp3.1\exercicios 1.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\exercicios 1\exercicios 1\bin\Debug\netcoreapp3.1\exercicios 1.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\exercicios 1\exercicios 1\obj\Debug\netcoreapp3.1\exercicios 1.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\exercicios 1\exercicios 1\obj\Debug\netcoreapp3.1\exercicios 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\exercicios 1\exercicios 1\obj\Debug\netcoreapp3.1\exercicios 1.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\exercicios 1\exercicios 1\obj\Debug\netcoreapp3.1\exercicios 1.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\exercicios 1\exercicios 1\obj\Debug\netcoreapp3.1\exercicios 1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\exercicios 1\exercicios 1\obj\Debug\netcoreapp3.1\exercicios 1.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\exercicios 1\exercicios 1\obj\Debug\netcoreapp3.1\exercicios 1.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\exercicios 1\exercicios 1\obj\Debug\netcoreapp3.1\exercicios 1.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Intro orientação a objeto\Intro orientação a objeto\bin\Debug\netcoreapp3.1\Intro orientação a objeto.exe
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Intro orientação a objeto\Intro orientação a objeto\bin\Debug\netcoreapp3.1\Intro orientação a objeto.deps.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Intro orientação a objeto\Intro orientação a objeto\bin\Debug\netcoreapp3.1\Intro orientação a objeto.runtimeconfig.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Intro orientação a objeto\Intro orientação a objeto\bin\Debug\netcoreapp3.1\Intro orientação a objeto.runtimeconfig.dev.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Intro orientação a objeto\Intro orientação a objeto\bin\Debug\netcoreapp3.1\Intro orientação a objeto.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Intro orientação a objeto\Intro orientação a objeto\bin\Debug\netcoreapp3.1\Intro orientação a objeto.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Intro orientação a objeto\Intro orientação a objeto\obj\Debug\netcoreapp3.1\Intro orientação a objeto.csproj.AssemblyReference.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Intro orientação a objeto\Intro orientação a objeto\obj\Debug\netcoreapp3.1\Intro orientação a objeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Intro orientação a objeto\Intro orientação a objeto\obj\Debug\netcoreapp3.1\Intro orientação a objeto.AssemblyInfoInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Intro orientação a objeto\Intro orientação a objeto\obj\Debug\netcoreapp3.1\Intro orientação a objeto.AssemblyInfo.cs
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Intro orientação a objeto\Intro orientação a objeto\obj\Debug\netcoreapp3.1\Intro orientação a objeto.csproj.CoreCompileInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Intro orientação a objeto\Intro orientação a objeto\obj\Debug\netcoreapp3.1\Intro orientação a objeto.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Intro orientação a objeto\Intro orientação a objeto\obj\Debug\netcoreapp3.1\Intro orientação a objeto.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Intro orientação a objeto\Intro orientação a objeto\obj\Debug\netcoreapp3.1\Intro orientação a objeto.genruntimeconfig.cache

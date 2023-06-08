@@ -1,0 +1,14 @@
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Membros Estaticos\Exercicio Membros Estaticos\bin\Debug\netcoreapp3.1\Exercicio Membros Estaticos.exe
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Membros Estaticos\Exercicio Membros Estaticos\bin\Debug\netcoreapp3.1\Exercicio Membros Estaticos.deps.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Membros Estaticos\Exercicio Membros Estaticos\bin\Debug\netcoreapp3.1\Exercicio Membros Estaticos.runtimeconfig.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Membros Estaticos\Exercicio Membros Estaticos\bin\Debug\netcoreapp3.1\Exercicio Membros Estaticos.runtimeconfig.dev.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Membros Estaticos\Exercicio Membros Estaticos\bin\Debug\netcoreapp3.1\Exercicio Membros Estaticos.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Membros Estaticos\Exercicio Membros Estaticos\bin\Debug\netcoreapp3.1\Exercicio Membros Estaticos.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Membros Estaticos\Exercicio Membros Estaticos\obj\Debug\netcoreapp3.1\Exercicio Membros Estaticos.csproj.AssemblyReference.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Membros Estaticos\Exercicio Membros Estaticos\obj\Debug\netcoreapp3.1\Exercicio Membros Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Membros Estaticos\Exercicio Membros Estaticos\obj\Debug\netcoreapp3.1\Exercicio Membros Estaticos.AssemblyInfoInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Membros Estaticos\Exercicio Membros Estaticos\obj\Debug\netcoreapp3.1\Exercicio Membros Estaticos.AssemblyInfo.cs
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Membros Estaticos\Exercicio Membros Estaticos\obj\Debug\netcoreapp3.1\Exercicio Membros Estaticos.csproj.CoreCompileInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Membros Estaticos\Exercicio Membros Estaticos\obj\Debug\netcoreapp3.1\Exercicio Membros Estaticos.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Membros Estaticos\Exercicio Membros Estaticos\obj\Debug\netcoreapp3.1\Exercicio Membros Estaticos.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicio Membros Estaticos\Exercicio Membros Estaticos\obj\Debug\netcoreapp3.1\Exercicio Membros Estaticos.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores Exemplo 2\Vetores Exemplo 2\bin\Debug\netcoreapp3.1\Vetores Exemplo 2.exe
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores Exemplo 2\Vetores Exemplo 2\bin\Debug\netcoreapp3.1\Vetores Exemplo 2.deps.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores Exemplo 2\Vetores Exemplo 2\bin\Debug\netcoreapp3.1\Vetores Exemplo 2.runtimeconfig.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores Exemplo 2\Vetores Exemplo 2\bin\Debug\netcoreapp3.1\Vetores Exemplo 2.runtimeconfig.dev.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores Exemplo 2\Vetores Exemplo 2\bin\Debug\netcoreapp3.1\Vetores Exemplo 2.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores Exemplo 2\Vetores Exemplo 2\bin\Debug\netcoreapp3.1\Vetores Exemplo 2.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores Exemplo 2\Vetores Exemplo 2\obj\Debug\netcoreapp3.1\Vetores Exemplo 2.csproj.AssemblyReference.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores Exemplo 2\Vetores Exemplo 2\obj\Debug\netcoreapp3.1\Vetores Exemplo 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores Exemplo 2\Vetores Exemplo 2\obj\Debug\netcoreapp3.1\Vetores Exemplo 2.AssemblyInfoInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores Exemplo 2\Vetores Exemplo 2\obj\Debug\netcoreapp3.1\Vetores Exemplo 2.AssemblyInfo.cs
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores Exemplo 2\Vetores Exemplo 2\obj\Debug\netcoreapp3.1\Vetores Exemplo 2.csproj.CoreCompileInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores Exemplo 2\Vetores Exemplo 2\obj\Debug\netcoreapp3.1\Vetores Exemplo 2.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores Exemplo 2\Vetores Exemplo 2\obj\Debug\netcoreapp3.1\Vetores Exemplo 2.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores Exemplo 2\Vetores Exemplo 2\obj\Debug\netcoreapp3.1\Vetores Exemplo 2.genruntimeconfig.cache

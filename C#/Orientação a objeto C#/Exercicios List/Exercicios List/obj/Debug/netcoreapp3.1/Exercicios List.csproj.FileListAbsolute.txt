@@ -1,0 +1,14 @@
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios List\Exercicios List\bin\Debug\netcoreapp3.1\Exercicios List.exe
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios List\Exercicios List\bin\Debug\netcoreapp3.1\Exercicios List.deps.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios List\Exercicios List\bin\Debug\netcoreapp3.1\Exercicios List.runtimeconfig.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios List\Exercicios List\bin\Debug\netcoreapp3.1\Exercicios List.runtimeconfig.dev.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios List\Exercicios List\bin\Debug\netcoreapp3.1\Exercicios List.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios List\Exercicios List\bin\Debug\netcoreapp3.1\Exercicios List.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios List\Exercicios List\obj\Debug\netcoreapp3.1\Exercicios List.csproj.AssemblyReference.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios List\Exercicios List\obj\Debug\netcoreapp3.1\Exercicios List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios List\Exercicios List\obj\Debug\netcoreapp3.1\Exercicios List.AssemblyInfoInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios List\Exercicios List\obj\Debug\netcoreapp3.1\Exercicios List.AssemblyInfo.cs
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios List\Exercicios List\obj\Debug\netcoreapp3.1\Exercicios List.csproj.CoreCompileInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios List\Exercicios List\obj\Debug\netcoreapp3.1\Exercicios List.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios List\Exercicios List\obj\Debug\netcoreapp3.1\Exercicios List.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios List\Exercicios List\obj\Debug\netcoreapp3.1\Exercicios List.genruntimeconfig.cache

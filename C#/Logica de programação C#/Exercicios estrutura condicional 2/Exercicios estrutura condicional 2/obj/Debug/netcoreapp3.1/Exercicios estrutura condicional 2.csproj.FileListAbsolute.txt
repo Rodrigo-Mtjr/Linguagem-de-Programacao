@@ -1,0 +1,14 @@
+D:\Aulas\Linguagem-de-Programacao\C#\Exercicios estrutura condicional 2\Exercicios estrutura condicional 2\bin\Debug\netcoreapp3.1\Exercicios estrutura condicional 2.exe
+D:\Aulas\Linguagem-de-Programacao\C#\Exercicios estrutura condicional 2\Exercicios estrutura condicional 2\bin\Debug\netcoreapp3.1\Exercicios estrutura condicional 2.deps.json
+D:\Aulas\Linguagem-de-Programacao\C#\Exercicios estrutura condicional 2\Exercicios estrutura condicional 2\bin\Debug\netcoreapp3.1\Exercicios estrutura condicional 2.runtimeconfig.json
+D:\Aulas\Linguagem-de-Programacao\C#\Exercicios estrutura condicional 2\Exercicios estrutura condicional 2\bin\Debug\netcoreapp3.1\Exercicios estrutura condicional 2.runtimeconfig.dev.json
+D:\Aulas\Linguagem-de-Programacao\C#\Exercicios estrutura condicional 2\Exercicios estrutura condicional 2\bin\Debug\netcoreapp3.1\Exercicios estrutura condicional 2.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Exercicios estrutura condicional 2\Exercicios estrutura condicional 2\bin\Debug\netcoreapp3.1\Exercicios estrutura condicional 2.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Exercicios estrutura condicional 2\Exercicios estrutura condicional 2\obj\Debug\netcoreapp3.1\Exercicios estrutura condicional 2.csproj.AssemblyReference.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Exercicios estrutura condicional 2\Exercicios estrutura condicional 2\obj\Debug\netcoreapp3.1\Exercicios estrutura condicional 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Linguagem-de-Programacao\C#\Exercicios estrutura condicional 2\Exercicios estrutura condicional 2\obj\Debug\netcoreapp3.1\Exercicios estrutura condicional 2.AssemblyInfoInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Exercicios estrutura condicional 2\Exercicios estrutura condicional 2\obj\Debug\netcoreapp3.1\Exercicios estrutura condicional 2.AssemblyInfo.cs
+D:\Aulas\Linguagem-de-Programacao\C#\Exercicios estrutura condicional 2\Exercicios estrutura condicional 2\obj\Debug\netcoreapp3.1\Exercicios estrutura condicional 2.csproj.CoreCompileInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Exercicios estrutura condicional 2\Exercicios estrutura condicional 2\obj\Debug\netcoreapp3.1\Exercicios estrutura condicional 2.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Exercicios estrutura condicional 2\Exercicios estrutura condicional 2\obj\Debug\netcoreapp3.1\Exercicios estrutura condicional 2.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Exercicios estrutura condicional 2\Exercicios estrutura condicional 2\obj\Debug\netcoreapp3.1\Exercicios estrutura condicional 2.genruntimeconfig.cache

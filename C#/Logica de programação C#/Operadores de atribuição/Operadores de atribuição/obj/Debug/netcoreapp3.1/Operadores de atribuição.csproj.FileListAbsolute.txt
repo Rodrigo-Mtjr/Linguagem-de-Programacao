@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores de atribuição\Operadores de atribuição\bin\Debug\netcoreapp3.1\Operadores de atribuição.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores de atribuição\Operadores de atribuição\bin\Debug\netcoreapp3.1\Operadores de atribuição.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores de atribuição\Operadores de atribuição\bin\Debug\netcoreapp3.1\Operadores de atribuição.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores de atribuição\Operadores de atribuição\bin\Debug\netcoreapp3.1\Operadores de atribuição.runtimeconfig.dev.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores de atribuição\Operadores de atribuição\bin\Debug\netcoreapp3.1\Operadores de atribuição.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores de atribuição\Operadores de atribuição\bin\Debug\netcoreapp3.1\Operadores de atribuição.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores de atribuição\Operadores de atribuição\obj\Debug\netcoreapp3.1\Operadores de atribuição.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores de atribuição\Operadores de atribuição\obj\Debug\netcoreapp3.1\Operadores de atribuição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores de atribuição\Operadores de atribuição\obj\Debug\netcoreapp3.1\Operadores de atribuição.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores de atribuição\Operadores de atribuição\obj\Debug\netcoreapp3.1\Operadores de atribuição.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores de atribuição\Operadores de atribuição\obj\Debug\netcoreapp3.1\Operadores de atribuição.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores de atribuição\Operadores de atribuição\obj\Debug\netcoreapp3.1\Operadores de atribuição.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores de atribuição\Operadores de atribuição\obj\Debug\netcoreapp3.1\Operadores de atribuição.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Operadores de atribuição\Operadores de atribuição\obj\Debug\netcoreapp3.1\Operadores de atribuição.genruntimeconfig.cache

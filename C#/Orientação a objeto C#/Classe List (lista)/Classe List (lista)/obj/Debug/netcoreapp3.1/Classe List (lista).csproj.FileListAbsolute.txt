@@ -1,0 +1,14 @@
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classe List (lista)\Classe List (lista)\bin\Debug\netcoreapp3.1\Classe List (lista).exe
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classe List (lista)\Classe List (lista)\bin\Debug\netcoreapp3.1\Classe List (lista).deps.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classe List (lista)\Classe List (lista)\bin\Debug\netcoreapp3.1\Classe List (lista).runtimeconfig.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classe List (lista)\Classe List (lista)\bin\Debug\netcoreapp3.1\Classe List (lista).runtimeconfig.dev.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classe List (lista)\Classe List (lista)\bin\Debug\netcoreapp3.1\Classe List (lista).dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classe List (lista)\Classe List (lista)\bin\Debug\netcoreapp3.1\Classe List (lista).pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classe List (lista)\Classe List (lista)\obj\Debug\netcoreapp3.1\Classe List (lista).csproj.AssemblyReference.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classe List (lista)\Classe List (lista)\obj\Debug\netcoreapp3.1\Classe List (lista).GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classe List (lista)\Classe List (lista)\obj\Debug\netcoreapp3.1\Classe List (lista).AssemblyInfoInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classe List (lista)\Classe List (lista)\obj\Debug\netcoreapp3.1\Classe List (lista).AssemblyInfo.cs
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classe List (lista)\Classe List (lista)\obj\Debug\netcoreapp3.1\Classe List (lista).csproj.CoreCompileInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classe List (lista)\Classe List (lista)\obj\Debug\netcoreapp3.1\Classe List (lista).dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classe List (lista)\Classe List (lista)\obj\Debug\netcoreapp3.1\Classe List (lista).pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classe List (lista)\Classe List (lista)\obj\Debug\netcoreapp3.1\Classe List (lista).genruntimeconfig.cache

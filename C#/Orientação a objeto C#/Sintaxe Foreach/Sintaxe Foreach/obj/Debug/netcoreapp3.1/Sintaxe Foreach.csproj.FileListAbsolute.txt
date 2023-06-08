@@ -1,0 +1,14 @@
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sintaxe Foreach\Sintaxe Foreach\bin\Debug\netcoreapp3.1\Sintaxe Foreach.exe
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sintaxe Foreach\Sintaxe Foreach\bin\Debug\netcoreapp3.1\Sintaxe Foreach.deps.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sintaxe Foreach\Sintaxe Foreach\bin\Debug\netcoreapp3.1\Sintaxe Foreach.runtimeconfig.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sintaxe Foreach\Sintaxe Foreach\bin\Debug\netcoreapp3.1\Sintaxe Foreach.runtimeconfig.dev.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sintaxe Foreach\Sintaxe Foreach\bin\Debug\netcoreapp3.1\Sintaxe Foreach.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sintaxe Foreach\Sintaxe Foreach\bin\Debug\netcoreapp3.1\Sintaxe Foreach.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sintaxe Foreach\Sintaxe Foreach\obj\Debug\netcoreapp3.1\Sintaxe Foreach.csproj.AssemblyReference.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sintaxe Foreach\Sintaxe Foreach\obj\Debug\netcoreapp3.1\Sintaxe Foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sintaxe Foreach\Sintaxe Foreach\obj\Debug\netcoreapp3.1\Sintaxe Foreach.AssemblyInfoInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sintaxe Foreach\Sintaxe Foreach\obj\Debug\netcoreapp3.1\Sintaxe Foreach.AssemblyInfo.cs
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sintaxe Foreach\Sintaxe Foreach\obj\Debug\netcoreapp3.1\Sintaxe Foreach.csproj.CoreCompileInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sintaxe Foreach\Sintaxe Foreach\obj\Debug\netcoreapp3.1\Sintaxe Foreach.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sintaxe Foreach\Sintaxe Foreach\obj\Debug\netcoreapp3.1\Sintaxe Foreach.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sintaxe Foreach\Sintaxe Foreach\obj\Debug\netcoreapp3.1\Sintaxe Foreach.genruntimeconfig.cache

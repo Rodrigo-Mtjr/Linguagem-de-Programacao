@@ -1,0 +1,14 @@
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Metodos Estaticos\Metodos Estaticos\bin\Debug\netcoreapp3.1\Metodos Estaticos.exe
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Metodos Estaticos\Metodos Estaticos\bin\Debug\netcoreapp3.1\Metodos Estaticos.deps.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Metodos Estaticos\Metodos Estaticos\bin\Debug\netcoreapp3.1\Metodos Estaticos.runtimeconfig.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Metodos Estaticos\Metodos Estaticos\bin\Debug\netcoreapp3.1\Metodos Estaticos.runtimeconfig.dev.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Metodos Estaticos\Metodos Estaticos\bin\Debug\netcoreapp3.1\Metodos Estaticos.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Metodos Estaticos\Metodos Estaticos\bin\Debug\netcoreapp3.1\Metodos Estaticos.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Metodos Estaticos\Metodos Estaticos\obj\Debug\netcoreapp3.1\Metodos Estaticos.csproj.AssemblyReference.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Metodos Estaticos\Metodos Estaticos\obj\Debug\netcoreapp3.1\Metodos Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Metodos Estaticos\Metodos Estaticos\obj\Debug\netcoreapp3.1\Metodos Estaticos.AssemblyInfoInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Metodos Estaticos\Metodos Estaticos\obj\Debug\netcoreapp3.1\Metodos Estaticos.AssemblyInfo.cs
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Metodos Estaticos\Metodos Estaticos\obj\Debug\netcoreapp3.1\Metodos Estaticos.csproj.CoreCompileInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Metodos Estaticos\Metodos Estaticos\obj\Debug\netcoreapp3.1\Metodos Estaticos.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Metodos Estaticos\Metodos Estaticos\obj\Debug\netcoreapp3.1\Metodos Estaticos.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Metodos Estaticos\Metodos Estaticos\obj\Debug\netcoreapp3.1\Metodos Estaticos.genruntimeconfig.cache

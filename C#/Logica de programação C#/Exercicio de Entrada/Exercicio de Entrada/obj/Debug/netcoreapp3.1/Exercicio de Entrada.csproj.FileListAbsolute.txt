@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Entrada\Exercicio de Entrada\bin\Debug\netcoreapp3.1\Exercicio de Entrada.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Entrada\Exercicio de Entrada\bin\Debug\netcoreapp3.1\Exercicio de Entrada.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Entrada\Exercicio de Entrada\bin\Debug\netcoreapp3.1\Exercicio de Entrada.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Entrada\Exercicio de Entrada\bin\Debug\netcoreapp3.1\Exercicio de Entrada.runtimeconfig.dev.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Entrada\Exercicio de Entrada\bin\Debug\netcoreapp3.1\Exercicio de Entrada.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Entrada\Exercicio de Entrada\bin\Debug\netcoreapp3.1\Exercicio de Entrada.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Entrada\Exercicio de Entrada\obj\Debug\netcoreapp3.1\Exercicio de Entrada.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Entrada\Exercicio de Entrada\obj\Debug\netcoreapp3.1\Exercicio de Entrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Entrada\Exercicio de Entrada\obj\Debug\netcoreapp3.1\Exercicio de Entrada.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Entrada\Exercicio de Entrada\obj\Debug\netcoreapp3.1\Exercicio de Entrada.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Entrada\Exercicio de Entrada\obj\Debug\netcoreapp3.1\Exercicio de Entrada.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Entrada\Exercicio de Entrada\obj\Debug\netcoreapp3.1\Exercicio de Entrada.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Entrada\Exercicio de Entrada\obj\Debug\netcoreapp3.1\Exercicio de Entrada.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Exercicio de Entrada\Exercicio de Entrada\obj\Debug\netcoreapp3.1\Exercicio de Entrada.genruntimeconfig.cache

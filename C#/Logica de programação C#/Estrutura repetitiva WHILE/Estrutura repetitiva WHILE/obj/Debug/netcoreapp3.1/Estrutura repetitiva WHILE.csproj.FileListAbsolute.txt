@@ -1,0 +1,14 @@
+D:\Aulas\Linguagem-de-Programacao\C#\Estrutura repetitiva WHILE\Estrutura repetitiva WHILE\bin\Debug\netcoreapp3.1\Estrutura repetitiva WHILE.exe
+D:\Aulas\Linguagem-de-Programacao\C#\Estrutura repetitiva WHILE\Estrutura repetitiva WHILE\bin\Debug\netcoreapp3.1\Estrutura repetitiva WHILE.deps.json
+D:\Aulas\Linguagem-de-Programacao\C#\Estrutura repetitiva WHILE\Estrutura repetitiva WHILE\bin\Debug\netcoreapp3.1\Estrutura repetitiva WHILE.runtimeconfig.json
+D:\Aulas\Linguagem-de-Programacao\C#\Estrutura repetitiva WHILE\Estrutura repetitiva WHILE\bin\Debug\netcoreapp3.1\Estrutura repetitiva WHILE.runtimeconfig.dev.json
+D:\Aulas\Linguagem-de-Programacao\C#\Estrutura repetitiva WHILE\Estrutura repetitiva WHILE\bin\Debug\netcoreapp3.1\Estrutura repetitiva WHILE.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Estrutura repetitiva WHILE\Estrutura repetitiva WHILE\bin\Debug\netcoreapp3.1\Estrutura repetitiva WHILE.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Estrutura repetitiva WHILE\Estrutura repetitiva WHILE\obj\Debug\netcoreapp3.1\Estrutura repetitiva WHILE.csproj.AssemblyReference.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Estrutura repetitiva WHILE\Estrutura repetitiva WHILE\obj\Debug\netcoreapp3.1\Estrutura repetitiva WHILE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Linguagem-de-Programacao\C#\Estrutura repetitiva WHILE\Estrutura repetitiva WHILE\obj\Debug\netcoreapp3.1\Estrutura repetitiva WHILE.AssemblyInfoInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Estrutura repetitiva WHILE\Estrutura repetitiva WHILE\obj\Debug\netcoreapp3.1\Estrutura repetitiva WHILE.AssemblyInfo.cs
+D:\Aulas\Linguagem-de-Programacao\C#\Estrutura repetitiva WHILE\Estrutura repetitiva WHILE\obj\Debug\netcoreapp3.1\Estrutura repetitiva WHILE.csproj.CoreCompileInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Estrutura repetitiva WHILE\Estrutura repetitiva WHILE\obj\Debug\netcoreapp3.1\Estrutura repetitiva WHILE.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Estrutura repetitiva WHILE\Estrutura repetitiva WHILE\obj\Debug\netcoreapp3.1\Estrutura repetitiva WHILE.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Estrutura repetitiva WHILE\Estrutura repetitiva WHILE\obj\Debug\netcoreapp3.1\Estrutura repetitiva WHILE.genruntimeconfig.cache

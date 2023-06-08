@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de dados\Entrada de dados\bin\Debug\netcoreapp3.1\Entrada de dados.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de dados\Entrada de dados\bin\Debug\netcoreapp3.1\Entrada de dados.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de dados\Entrada de dados\bin\Debug\netcoreapp3.1\Entrada de dados.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de dados\Entrada de dados\bin\Debug\netcoreapp3.1\Entrada de dados.runtimeconfig.dev.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de dados\Entrada de dados\bin\Debug\netcoreapp3.1\Entrada de dados.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de dados\Entrada de dados\bin\Debug\netcoreapp3.1\Entrada de dados.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de dados\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de dados\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de dados\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de dados\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de dados\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de dados\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de dados\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de dados\Entrada de dados\obj\Debug\netcoreapp3.1\Entrada de dados.genruntimeconfig.cache

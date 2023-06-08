@@ -1,0 +1,14 @@
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Vetores\Exercicios Vetores\bin\Debug\netcoreapp3.1\Exercicios Vetores.exe
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Vetores\Exercicios Vetores\bin\Debug\netcoreapp3.1\Exercicios Vetores.deps.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Vetores\Exercicios Vetores\bin\Debug\netcoreapp3.1\Exercicios Vetores.runtimeconfig.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Vetores\Exercicios Vetores\bin\Debug\netcoreapp3.1\Exercicios Vetores.runtimeconfig.dev.json
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Vetores\Exercicios Vetores\bin\Debug\netcoreapp3.1\Exercicios Vetores.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Vetores\Exercicios Vetores\bin\Debug\netcoreapp3.1\Exercicios Vetores.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Vetores\Exercicios Vetores\obj\Debug\netcoreapp3.1\Exercicios Vetores.csproj.AssemblyReference.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Vetores\Exercicios Vetores\obj\Debug\netcoreapp3.1\Exercicios Vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Vetores\Exercicios Vetores\obj\Debug\netcoreapp3.1\Exercicios Vetores.AssemblyInfoInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Vetores\Exercicios Vetores\obj\Debug\netcoreapp3.1\Exercicios Vetores.AssemblyInfo.cs
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Vetores\Exercicios Vetores\obj\Debug\netcoreapp3.1\Exercicios Vetores.csproj.CoreCompileInputs.cache
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Vetores\Exercicios Vetores\obj\Debug\netcoreapp3.1\Exercicios Vetores.dll
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Vetores\Exercicios Vetores\obj\Debug\netcoreapp3.1\Exercicios Vetores.pdb
+D:\Aulas\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios Vetores\Exercicios Vetores\obj\Debug\netcoreapp3.1\Exercicios Vetores.genruntimeconfig.cache

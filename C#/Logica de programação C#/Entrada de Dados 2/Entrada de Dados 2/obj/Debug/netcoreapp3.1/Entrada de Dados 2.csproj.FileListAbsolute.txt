@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de Dados 2\Entrada de Dados 2\bin\Debug\netcoreapp3.1\Entrada de Dados 2.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de Dados 2\Entrada de Dados 2\bin\Debug\netcoreapp3.1\Entrada de Dados 2.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de Dados 2\Entrada de Dados 2\bin\Debug\netcoreapp3.1\Entrada de Dados 2.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de Dados 2\Entrada de Dados 2\bin\Debug\netcoreapp3.1\Entrada de Dados 2.runtimeconfig.dev.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de Dados 2\Entrada de Dados 2\bin\Debug\netcoreapp3.1\Entrada de Dados 2.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de Dados 2\Entrada de Dados 2\bin\Debug\netcoreapp3.1\Entrada de Dados 2.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de Dados 2\Entrada de Dados 2\obj\Debug\netcoreapp3.1\Entrada de Dados 2.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de Dados 2\Entrada de Dados 2\obj\Debug\netcoreapp3.1\Entrada de Dados 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de Dados 2\Entrada de Dados 2\obj\Debug\netcoreapp3.1\Entrada de Dados 2.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de Dados 2\Entrada de Dados 2\obj\Debug\netcoreapp3.1\Entrada de Dados 2.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de Dados 2\Entrada de Dados 2\obj\Debug\netcoreapp3.1\Entrada de Dados 2.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de Dados 2\Entrada de Dados 2\obj\Debug\netcoreapp3.1\Entrada de Dados 2.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de Dados 2\Entrada de Dados 2\obj\Debug\netcoreapp3.1\Entrada de Dados 2.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Aulas\C# AULAS\Entrada de Dados 2\Entrada de Dados 2\obj\Debug\netcoreapp3.1\Entrada de Dados 2.genruntimeconfig.cache
