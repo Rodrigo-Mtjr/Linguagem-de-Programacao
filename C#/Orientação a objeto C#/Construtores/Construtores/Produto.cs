@@ -3,65 +3,37 @@ namespace Course
 {
     class Produto
     {
-        private string _nome;
-        private double _preco;
-        private int _quantidade;
+        public string Nome;
+        public double Preco;
+        public int Quantidade;
 
-       
-        public Produto ()
+        /*Construtor para iniciar a instancia*/
+        public Produto (string nome, double preco, int quantidade)
         {
-
-        }
-
-        public Produto(string Nome, double Preco, int Quantidade)
-        {
-            _nome = Nome;
-            _preco = Preco;
-            _quantidade = Quantidade;
-        }
-
-        public string Nome
-        {
-            get { return _nome; }
-            set
-            {
-                if (value != null && value.Length > 1)
-                {
-                    _nome = value;
-                }
-            }
-        }
-
-       public double Preco
-        {
-            get { return _preco; }
-        }
-
-        public int Quantidade
-        {
-            get { return _quantidade; }
-            
+            Nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
         }
 
         public double ValorTotalEmEstoque()
         {
-            return _preco * _quantidade;
+            return Preco * Quantidade;
         }
         public void AdicionarProdutos(int quantidade)
         {
-            _quantidade += quantidade;
+            Quantidade += quantidade;
         }
         public void RemoverProdutos(int quantidade)
         {
-            _quantidade -= quantidade;
+            Quantidade -= quantidade;
         }
         public override string ToString()
         {
-            return _nome
+            return Nome
             + ", $ "
-            + _preco.ToString("F2", CultureInfo.InvariantCulture)
+            + Preco.ToString("F2", CultureInfo.InvariantCulture)
             + ", "
-            + _quantidade
+            + Quantidade
             + " unidades, Total: $ "
             + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }

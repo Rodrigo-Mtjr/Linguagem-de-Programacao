@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Funcionarios\Exercicios Classes Funcionarios\bin\Debug\net8.0\Exercicios Classes Funcionarios.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Funcionarios\Exercicios Classes Funcionarios\bin\Debug\net8.0\Exercicios Classes Funcionarios.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Funcionarios\Exercicios Classes Funcionarios\bin\Debug\net8.0\Exercicios Classes Funcionarios.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Funcionarios\Exercicios Classes Funcionarios\bin\Debug\net8.0\Exercicios Classes Funcionarios.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Funcionarios\Exercicios Classes Funcionarios\bin\Debug\net8.0\Exercicios Classes Funcionarios.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Funcionarios\Exercicios Classes Funcionarios\obj\Debug\net8.0\Exercicios Classes Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Funcionarios\Exercicios Classes Funcionarios\obj\Debug\net8.0\Exercicios Classes Funcionarios.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Funcionarios\Exercicios Classes Funcionarios\obj\Debug\net8.0\Exercicios Classes Funcionarios.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Funcionarios\Exercicios Classes Funcionarios\obj\Debug\net8.0\Exercicios Classes Funcionarios.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Funcionarios\Exercicios Classes Funcionarios\obj\Debug\net8.0\Exercicios Classes Funcionarios.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Funcionarios\Exercicios Classes Funcionarios\obj\Debug\net8.0\Exercicios Classes Funcionarios.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Funcionarios\Exercicios Classes Funcionarios\obj\Debug\net8.0\refint\Exercicios Classes Funcionarios.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Funcionarios\Exercicios Classes Funcionarios\obj\Debug\net8.0\Exercicios Classes Funcionarios.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Funcionarios\Exercicios Classes Funcionarios\obj\Debug\net8.0\Exercicios Classes Funcionarios.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Funcionarios\Exercicios Classes Funcionarios\obj\Debug\net8.0\ref\Exercicios Classes Funcionarios.dll

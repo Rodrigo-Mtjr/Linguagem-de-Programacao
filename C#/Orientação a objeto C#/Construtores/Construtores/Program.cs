@@ -6,16 +6,9 @@ namespace Course
     {
         static void Main(string[] args)
         {
-            
-            Produto p = new Produto ("Tv", 500.00, 10);
+            /* Em vez de instanciar no começo do codigo, vai ser instanciado depois da entrada dos dados*/
 
-            
-            p.Nome = ("TV 4k");
-
-            Console.WriteLine(p.Nome);
-            Console.WriteLine(p.Preco);
-
-            /*Console.WriteLine("Entre os dados do produto:");
+            Console.WriteLine("Entre os dados do produto:");
             Console.Write("Nome: ");
             string nome = Console.ReadLine();
             Console.Write("Preço: ");
@@ -23,7 +16,9 @@ namespace Course
             Console.Write("Quantidade no estoque: ");
             int quantidade = int.Parse(Console.ReadLine());
 
+            /* Instanciando o objeto e usando o que foi digitado pelo usuario como parametro*/
             Produto p = new Produto(nome, preco, quantidade);
+
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
             Console.WriteLine();
@@ -37,9 +32,7 @@ namespace Course
             qte = int.Parse(Console.ReadLine());
             p.RemoverProdutos(qte);
             Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + p);*/
-
-
+            Console.WriteLine("Dados atualizados: " + p);
         }
     }
 }

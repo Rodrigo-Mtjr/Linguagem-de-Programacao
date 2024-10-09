@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Encapsulamento\Encapsulamento\bin\Debug\net8.0\Encapsulamento.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Encapsulamento\Encapsulamento\bin\Debug\net8.0\Encapsulamento.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Encapsulamento\Encapsulamento\bin\Debug\net8.0\Encapsulamento.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Encapsulamento\Encapsulamento\bin\Debug\net8.0\Encapsulamento.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Encapsulamento\Encapsulamento\bin\Debug\net8.0\Encapsulamento.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Encapsulamento\Encapsulamento\obj\Debug\net8.0\refint\Encapsulamento.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Encapsulamento\Encapsulamento\obj\Debug\net8.0\ref\Encapsulamento.dll

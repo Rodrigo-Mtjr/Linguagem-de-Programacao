@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios_Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{364334B7-37EA-4692-BC3F-9FFCAC77949D}|Exercicios_Banco\\Exercicios_Banco.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\exercicios\\exercicios_banco\\exercicios_banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364334B7-37EA-4692-BC3F-9FFCAC77949D}|Exercicios_Banco\\Exercicios_Banco.csproj|solutionrelative:exercicios_banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364334B7-37EA-4692-BC3F-9FFCAC77949D}|Exercicios_Banco\\Exercicios_Banco.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\exercicios\\exercicios_banco\\exercicios_banco\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364334B7-37EA-4692-BC3F-9FFCAC77949D}|Exercicios_Banco\\Exercicios_Banco.csproj|solutionrelative:exercicios_banco\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios_Banco\\Exercicios_Banco\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios_Banco\\Program.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios_Banco\\Exercicios_Banco\\Program.cs",
+              "RelativeToolTip": "Exercicios_Banco\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:59:07.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios_Banco\\Exercicios_Banco\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Exercicios_Banco\\ContaBancaria.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios_Banco\\Exercicios_Banco\\ContaBancaria.cs",
+              "RelativeToolTip": "Exercicios_Banco\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:00:01.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

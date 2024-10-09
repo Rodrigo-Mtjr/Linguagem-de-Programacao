@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Banco\Exercicios_Banco\bin\Debug\net8.0\Exercicios_Banco.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Banco\Exercicios_Banco\bin\Debug\net8.0\Exercicios_Banco.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Banco\Exercicios_Banco\bin\Debug\net8.0\Exercicios_Banco.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Banco\Exercicios_Banco\bin\Debug\net8.0\Exercicios_Banco.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Banco\Exercicios_Banco\bin\Debug\net8.0\Exercicios_Banco.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Banco\Exercicios_Banco\obj\Debug\net8.0\Exercicios_Banco.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Banco\Exercicios_Banco\obj\Debug\net8.0\Exercicios_Banco.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Banco\Exercicios_Banco\obj\Debug\net8.0\Exercicios_Banco.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Banco\Exercicios_Banco\obj\Debug\net8.0\Exercicios_Banco.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Banco\Exercicios_Banco\obj\Debug\net8.0\Exercicios_Banco.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Banco\Exercicios_Banco\obj\Debug\net8.0\Exercicios_Banco.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Banco\Exercicios_Banco\obj\Debug\net8.0\refint\Exercicios_Banco.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Banco\Exercicios_Banco\obj\Debug\net8.0\Exercicios_Banco.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Banco\Exercicios_Banco\obj\Debug\net8.0\Exercicios_Banco.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Banco\Exercicios_Banco\obj\Debug\net8.0\ref\Exercicios_Banco.dll

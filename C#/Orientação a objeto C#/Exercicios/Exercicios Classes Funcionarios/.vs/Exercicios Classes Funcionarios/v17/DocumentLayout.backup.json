@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Classes Funcionarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B5D2F0-3307-40F2-9471-46BEF9FEFEF4}|Exercicios Classes Funcionarios\\Exercicios Classes Funcionarios.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\exercicios\\exercicios classes funcionarios\\exercicios classes funcionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B5D2F0-3307-40F2-9471-46BEF9FEFEF4}|Exercicios Classes Funcionarios\\Exercicios Classes Funcionarios.csproj|solutionrelative:exercicios classes funcionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B5D2F0-3307-40F2-9471-46BEF9FEFEF4}|Exercicios Classes Funcionarios\\Exercicios Classes Funcionarios.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\exercicios\\exercicios classes funcionarios\\exercicios classes funcionarios\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B5D2F0-3307-40F2-9471-46BEF9FEFEF4}|Exercicios Classes Funcionarios\\Exercicios Classes Funcionarios.csproj|solutionrelative:exercicios classes funcionarios\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Classes Funcionarios\\Exercicios Classes Funcionarios\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios Classes Funcionarios\\Program.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Classes Funcionarios\\Exercicios Classes Funcionarios\\Program.cs",
+              "RelativeToolTip": "Exercicios Classes Funcionarios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:20:29.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Classes Funcionarios\\Exercicios Classes Funcionarios\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Exercicios Classes Funcionarios\\Funcionario.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Classes Funcionarios\\Exercicios Classes Funcionarios\\Funcionario.cs",
+              "RelativeToolTip": "Exercicios Classes Funcionarios\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:21:29.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

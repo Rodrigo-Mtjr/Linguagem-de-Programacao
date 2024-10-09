@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Propertis (Propriedades)\Propertis (Propriedades)\bin\Debug\net8.0\Propertis (Propriedades).exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Propertis (Propriedades)\Propertis (Propriedades)\bin\Debug\net8.0\Propertis (Propriedades).deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Propertis (Propriedades)\Propertis (Propriedades)\bin\Debug\net8.0\Propertis (Propriedades).runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Propertis (Propriedades)\Propertis (Propriedades)\bin\Debug\net8.0\Propertis (Propriedades).dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Propertis (Propriedades)\Propertis (Propriedades)\bin\Debug\net8.0\Propertis (Propriedades).pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Propertis (Propriedades)\Propertis (Propriedades)\obj\Debug\net8.0\Propertis (Propriedades).GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Propertis (Propriedades)\Propertis (Propriedades)\obj\Debug\net8.0\Propertis (Propriedades).AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Propertis (Propriedades)\Propertis (Propriedades)\obj\Debug\net8.0\Propertis (Propriedades).AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Propertis (Propriedades)\Propertis (Propriedades)\obj\Debug\net8.0\Propertis (Propriedades).csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Propertis (Propriedades)\Propertis (Propriedades)\obj\Debug\net8.0\Propertis (Propriedades).sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Propertis (Propriedades)\Propertis (Propriedades)\obj\Debug\net8.0\Propertis (Propriedades).dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Propertis (Propriedades)\Propertis (Propriedades)\obj\Debug\net8.0\refint\Propertis (Propriedades).dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Propertis (Propriedades)\Propertis (Propriedades)\obj\Debug\net8.0\Propertis (Propriedades).pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Propertis (Propriedades)\Propertis (Propriedades)\obj\Debug\net8.0\Propertis (Propriedades).genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Propertis (Propriedades)\Propertis (Propriedades)\obj\Debug\net8.0\ref\Propertis (Propriedades).dll

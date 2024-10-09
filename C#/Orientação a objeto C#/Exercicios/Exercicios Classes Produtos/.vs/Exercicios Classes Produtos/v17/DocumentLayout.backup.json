@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Classes Produtos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{545C738A-E41B-40AF-AC82-DC27E398C8AF}|Exercicios Classes Produtos\\Exercicios Classes Produtos.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\exercicios\\exercicios classes produtos\\exercicios classes produtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545C738A-E41B-40AF-AC82-DC27E398C8AF}|Exercicios Classes Produtos\\Exercicios Classes Produtos.csproj|solutionrelative:exercicios classes produtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545C738A-E41B-40AF-AC82-DC27E398C8AF}|Exercicios Classes Produtos\\Exercicios Classes Produtos.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\exercicios\\exercicios classes produtos\\exercicios classes produtos\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545C738A-E41B-40AF-AC82-DC27E398C8AF}|Exercicios Classes Produtos\\Exercicios Classes Produtos.csproj|solutionrelative:exercicios classes produtos\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Classes Produtos\\Exercicios Classes Produtos\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios Classes Produtos\\Program.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Classes Produtos\\Exercicios Classes Produtos\\Program.cs*",
+              "RelativeToolTip": "Exercicios Classes Produtos\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:50:41.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Classes Produtos\\Exercicios Classes Produtos\\Produtos.cs",
+              "RelativeDocumentMoniker": "Exercicios Classes Produtos\\Produtos.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Classes Produtos\\Exercicios Classes Produtos\\Produtos.cs",
+              "RelativeToolTip": "Exercicios Classes Produtos\\Produtos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:50:57.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

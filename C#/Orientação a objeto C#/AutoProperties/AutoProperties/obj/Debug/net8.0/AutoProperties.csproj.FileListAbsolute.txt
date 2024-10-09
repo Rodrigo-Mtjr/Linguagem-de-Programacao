@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\AutoProperties\AutoProperties\bin\Debug\net8.0\AutoProperties.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\AutoProperties\AutoProperties\bin\Debug\net8.0\AutoProperties.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\AutoProperties\AutoProperties\bin\Debug\net8.0\AutoProperties.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\AutoProperties\AutoProperties\bin\Debug\net8.0\AutoProperties.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\AutoProperties\AutoProperties\bin\Debug\net8.0\AutoProperties.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\AutoProperties\AutoProperties\obj\Debug\net8.0\refint\AutoProperties.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\AutoProperties\AutoProperties\obj\Debug\net8.0\ref\AutoProperties.dll

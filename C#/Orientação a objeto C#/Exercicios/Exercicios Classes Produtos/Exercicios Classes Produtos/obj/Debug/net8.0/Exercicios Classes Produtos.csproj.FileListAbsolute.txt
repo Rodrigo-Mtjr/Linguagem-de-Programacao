@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Produtos\Exercicios Classes Produtos\bin\Debug\net8.0\Exercicios Classes Produtos.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Produtos\Exercicios Classes Produtos\bin\Debug\net8.0\Exercicios Classes Produtos.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Produtos\Exercicios Classes Produtos\bin\Debug\net8.0\Exercicios Classes Produtos.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Produtos\Exercicios Classes Produtos\bin\Debug\net8.0\Exercicios Classes Produtos.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Produtos\Exercicios Classes Produtos\bin\Debug\net8.0\Exercicios Classes Produtos.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Produtos\Exercicios Classes Produtos\obj\Debug\net8.0\Exercicios Classes Produtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Produtos\Exercicios Classes Produtos\obj\Debug\net8.0\Exercicios Classes Produtos.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Produtos\Exercicios Classes Produtos\obj\Debug\net8.0\Exercicios Classes Produtos.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Produtos\Exercicios Classes Produtos\obj\Debug\net8.0\Exercicios Classes Produtos.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Produtos\Exercicios Classes Produtos\obj\Debug\net8.0\Exercicios Classes Produtos.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Produtos\Exercicios Classes Produtos\obj\Debug\net8.0\Exercicios Classes Produtos.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Produtos\Exercicios Classes Produtos\obj\Debug\net8.0\refint\Exercicios Classes Produtos.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Produtos\Exercicios Classes Produtos\obj\Debug\net8.0\Exercicios Classes Produtos.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Produtos\Exercicios Classes Produtos\obj\Debug\net8.0\Exercicios Classes Produtos.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classes Produtos\Exercicios Classes Produtos\obj\Debug\net8.0\ref\Exercicios Classes Produtos.dll

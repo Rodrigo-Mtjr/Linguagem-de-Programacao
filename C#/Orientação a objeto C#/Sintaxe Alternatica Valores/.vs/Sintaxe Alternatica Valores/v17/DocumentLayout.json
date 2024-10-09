@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Sintaxe Alternatica Valores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA41-6552-4C87-8177-F60D2BDED2D2}|Sintaxe Alternatica Valores\\Sintaxe Alternatica Valores.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\sintaxe alternatica valores\\sintaxe alternatica valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA41-6552-4C87-8177-F60D2BDED2D2}|Sintaxe Alternatica Valores\\Sintaxe Alternatica Valores.csproj|solutionrelative:sintaxe alternatica valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA41-6552-4C87-8177-F60D2BDED2D2}|Sintaxe Alternatica Valores\\Sintaxe Alternatica Valores.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\sintaxe alternatica valores\\sintaxe alternatica valores\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA41-6552-4C87-8177-F60D2BDED2D2}|Sintaxe Alternatica Valores\\Sintaxe Alternatica Valores.csproj|solutionrelative:sintaxe alternatica valores\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Sintaxe Alternatica Valores\\Sintaxe Alternatica Valores\\Program.cs",
+              "RelativeDocumentMoniker": "Sintaxe Alternatica Valores\\Program.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Sintaxe Alternatica Valores\\Sintaxe Alternatica Valores\\Program.cs",
+              "RelativeToolTip": "Sintaxe Alternatica Valores\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:01:16.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Sintaxe Alternatica Valores\\Sintaxe Alternatica Valores\\Produto.cs",
+              "RelativeDocumentMoniker": "Sintaxe Alternatica Valores\\Produto.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Sintaxe Alternatica Valores\\Sintaxe Alternatica Valores\\Produto.cs",
+              "RelativeToolTip": "Sintaxe Alternatica Valores\\Produto.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:02:12.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classe Retangulo\Exercicios Classe Retangulo\bin\Debug\net8.0\Exercicios Classe Retangulo.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classe Retangulo\Exercicios Classe Retangulo\bin\Debug\net8.0\Exercicios Classe Retangulo.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classe Retangulo\Exercicios Classe Retangulo\bin\Debug\net8.0\Exercicios Classe Retangulo.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classe Retangulo\Exercicios Classe Retangulo\bin\Debug\net8.0\Exercicios Classe Retangulo.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classe Retangulo\Exercicios Classe Retangulo\bin\Debug\net8.0\Exercicios Classe Retangulo.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classe Retangulo\Exercicios Classe Retangulo\obj\Debug\net8.0\Exercicios Classe Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classe Retangulo\Exercicios Classe Retangulo\obj\Debug\net8.0\Exercicios Classe Retangulo.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classe Retangulo\Exercicios Classe Retangulo\obj\Debug\net8.0\Exercicios Classe Retangulo.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classe Retangulo\Exercicios Classe Retangulo\obj\Debug\net8.0\Exercicios Classe Retangulo.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classe Retangulo\Exercicios Classe Retangulo\obj\Debug\net8.0\Exercicios Classe Retangulo.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classe Retangulo\Exercicios Classe Retangulo\obj\Debug\net8.0\Exercicios Classe Retangulo.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classe Retangulo\Exercicios Classe Retangulo\obj\Debug\net8.0\refint\Exercicios Classe Retangulo.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classe Retangulo\Exercicios Classe Retangulo\obj\Debug\net8.0\Exercicios Classe Retangulo.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classe Retangulo\Exercicios Classe Retangulo\obj\Debug\net8.0\Exercicios Classe Retangulo.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Classe Retangulo\Exercicios Classe Retangulo\obj\Debug\net8.0\ref\Exercicios Classe Retangulo.dll
