@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\net8.0\Exercicio_Vetores.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\net8.0\Exercicio_Vetores.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\net8.0\Exercicio_Vetores.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\net8.0\Exercicio_Vetores.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\net8.0\Exercicio_Vetores.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\net8.0\Exercicio_Vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\net8.0\Exercicio_Vetores.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\net8.0\Exercicio_Vetores.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\net8.0\Exercicio_Vetores.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\net8.0\Exercicio_Vetores.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\net8.0\Exercicio_Vetores.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\net8.0\refint\Exercicio_Vetores.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\net8.0\Exercicio_Vetores.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\net8.0\Exercicio_Vetores.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\net8.0\ref\Exercicio_Vetores.dll

@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores2\Vetores2\bin\Debug\net8.0\Vetores2.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores2\Vetores2\bin\Debug\net8.0\Vetores2.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores2\Vetores2\bin\Debug\net8.0\Vetores2.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores2\Vetores2\bin\Debug\net8.0\Vetores2.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores2\Vetores2\bin\Debug\net8.0\Vetores2.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores2\Vetores2\obj\Debug\net8.0\refint\Vetores2.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Vetores2\Vetores2\obj\Debug\net8.0\ref\Vetores2.dll

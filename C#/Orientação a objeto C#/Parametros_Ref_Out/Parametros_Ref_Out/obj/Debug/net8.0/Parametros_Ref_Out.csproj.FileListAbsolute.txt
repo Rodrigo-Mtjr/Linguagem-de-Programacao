@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Parametros_Ref_Out\Parametros_Ref_Out\bin\Debug\net8.0\Parametros_Ref_Out.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Parametros_Ref_Out\Parametros_Ref_Out\bin\Debug\net8.0\Parametros_Ref_Out.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Parametros_Ref_Out\Parametros_Ref_Out\bin\Debug\net8.0\Parametros_Ref_Out.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Parametros_Ref_Out\Parametros_Ref_Out\bin\Debug\net8.0\Parametros_Ref_Out.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Parametros_Ref_Out\Parametros_Ref_Out\bin\Debug\net8.0\Parametros_Ref_Out.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Parametros_Ref_Out\Parametros_Ref_Out\obj\Debug\net8.0\Parametros_Ref_Out.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Parametros_Ref_Out\Parametros_Ref_Out\obj\Debug\net8.0\Parametros_Ref_Out.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Parametros_Ref_Out\Parametros_Ref_Out\obj\Debug\net8.0\Parametros_Ref_Out.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Parametros_Ref_Out\Parametros_Ref_Out\obj\Debug\net8.0\Parametros_Ref_Out.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Parametros_Ref_Out\Parametros_Ref_Out\obj\Debug\net8.0\Parametros_Ref_Out.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Parametros_Ref_Out\Parametros_Ref_Out\obj\Debug\net8.0\Parametros_Ref_Out.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Parametros_Ref_Out\Parametros_Ref_Out\obj\Debug\net8.0\refint\Parametros_Ref_Out.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Parametros_Ref_Out\Parametros_Ref_Out\obj\Debug\net8.0\Parametros_Ref_Out.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Parametros_Ref_Out\Parametros_Ref_Out\obj\Debug\net8.0\Parametros_Ref_Out.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Parametros_Ref_Out\Parametros_Ref_Out\obj\Debug\net8.0\ref\Parametros_Ref_Out.dll
