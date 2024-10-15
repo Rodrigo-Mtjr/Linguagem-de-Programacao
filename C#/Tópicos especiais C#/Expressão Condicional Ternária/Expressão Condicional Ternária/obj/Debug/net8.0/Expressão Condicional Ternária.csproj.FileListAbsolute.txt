@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Expressão Condicional Ternária\Expressão Condicional Ternária\bin\Debug\net8.0\Expressão Condicional Ternária.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Expressão Condicional Ternária\Expressão Condicional Ternária\bin\Debug\net8.0\Expressão Condicional Ternária.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Expressão Condicional Ternária\Expressão Condicional Ternária\bin\Debug\net8.0\Expressão Condicional Ternária.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Expressão Condicional Ternária\Expressão Condicional Ternária\bin\Debug\net8.0\Expressão Condicional Ternária.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Expressão Condicional Ternária\Expressão Condicional Ternária\bin\Debug\net8.0\Expressão Condicional Ternária.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Expressão Condicional Ternária\Expressão Condicional Ternária\obj\Debug\net8.0\Expressão Condicional Ternária.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Expressão Condicional Ternária\Expressão Condicional Ternária\obj\Debug\net8.0\Expressão Condicional Ternária.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Expressão Condicional Ternária\Expressão Condicional Ternária\obj\Debug\net8.0\Expressão Condicional Ternária.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Expressão Condicional Ternária\Expressão Condicional Ternária\obj\Debug\net8.0\Expressão Condicional Ternária.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Expressão Condicional Ternária\Expressão Condicional Ternária\obj\Debug\net8.0\Expressão Condicional Ternária.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Expressão Condicional Ternária\Expressão Condicional Ternária\obj\Debug\net8.0\Expressão Condicional Ternária.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Expressão Condicional Ternária\Expressão Condicional Ternária\obj\Debug\net8.0\refint\Expressão Condicional Ternária.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Expressão Condicional Ternária\Expressão Condicional Ternária\obj\Debug\net8.0\Expressão Condicional Ternária.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Expressão Condicional Ternária\Expressão Condicional Ternária\obj\Debug\net8.0\Expressão Condicional Ternária.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Expressão Condicional Ternária\Expressão Condicional Ternária\obj\Debug\net8.0\ref\Expressão Condicional Ternária.dll

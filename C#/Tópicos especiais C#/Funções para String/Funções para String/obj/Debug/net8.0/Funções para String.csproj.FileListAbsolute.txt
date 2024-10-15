@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Funções para String\Funções para String\bin\Debug\net8.0\Funções para String.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Funções para String\Funções para String\bin\Debug\net8.0\Funções para String.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Funções para String\Funções para String\bin\Debug\net8.0\Funções para String.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Funções para String\Funções para String\bin\Debug\net8.0\Funções para String.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Funções para String\Funções para String\bin\Debug\net8.0\Funções para String.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Funções para String\Funções para String\obj\Debug\net8.0\Funções para String.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Funções para String\Funções para String\obj\Debug\net8.0\Funções para String.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Funções para String\Funções para String\obj\Debug\net8.0\Funções para String.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Funções para String\Funções para String\obj\Debug\net8.0\Funções para String.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Funções para String\Funções para String\obj\Debug\net8.0\Funções para String.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Funções para String\Funções para String\obj\Debug\net8.0\Funções para String.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Funções para String\Funções para String\obj\Debug\net8.0\refint\Funções para String.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Funções para String\Funções para String\obj\Debug\net8.0\Funções para String.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Funções para String\Funções para String\obj\Debug\net8.0\Funções para String.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tópicos especiais C#\Funções para String\Funções para String\obj\Debug\net8.0\ref\Funções para String.dll

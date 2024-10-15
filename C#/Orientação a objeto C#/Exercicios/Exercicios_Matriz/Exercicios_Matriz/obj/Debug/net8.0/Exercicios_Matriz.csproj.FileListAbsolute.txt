@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Matriz\Exercicios_Matriz\bin\Debug\net8.0\Exercicios_Matriz.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Matriz\Exercicios_Matriz\bin\Debug\net8.0\Exercicios_Matriz.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Matriz\Exercicios_Matriz\bin\Debug\net8.0\Exercicios_Matriz.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Matriz\Exercicios_Matriz\bin\Debug\net8.0\Exercicios_Matriz.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Matriz\Exercicios_Matriz\bin\Debug\net8.0\Exercicios_Matriz.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Matriz\Exercicios_Matriz\obj\Debug\net8.0\Exercicios_Matriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Matriz\Exercicios_Matriz\obj\Debug\net8.0\Exercicios_Matriz.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Matriz\Exercicios_Matriz\obj\Debug\net8.0\Exercicios_Matriz.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Matriz\Exercicios_Matriz\obj\Debug\net8.0\Exercicios_Matriz.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Matriz\Exercicios_Matriz\obj\Debug\net8.0\Exercicios_Matriz.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Matriz\Exercicios_Matriz\obj\Debug\net8.0\Exercicios_Matriz.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Matriz\Exercicios_Matriz\obj\Debug\net8.0\refint\Exercicios_Matriz.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Matriz\Exercicios_Matriz\obj\Debug\net8.0\Exercicios_Matriz.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Matriz\Exercicios_Matriz\obj\Debug\net8.0\Exercicios_Matriz.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios_Matriz\Exercicios_Matriz\obj\Debug\net8.0\ref\Exercicios_Matriz.dll

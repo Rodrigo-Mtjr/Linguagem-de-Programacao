@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Expressão Condicional Ternária/1.0.0": {
+        "runtime": {
+          "Expressão Condicional Ternária.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Expressão Condicional Ternária/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

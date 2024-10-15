@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\T\u00F3picos especiais C#\\Palavra Var\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA60DBE-A38B-416F-8142-167F39CD6325}|Palavra Var\\Palavra Var.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\t\u00F3picos especiais c#\\palavra var\\palavra var\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA60DBE-A38B-416F-8142-167F39CD6325}|Palavra Var\\Palavra Var.csproj|solutionrelative:palavra var\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\T\u00F3picos especiais C#\\Palavra Var\\Palavra Var\\Program.cs",
+              "RelativeDocumentMoniker": "Palavra Var\\Program.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\T\u00F3picos especiais C#\\Palavra Var\\Palavra Var\\Program.cs",
+              "RelativeToolTip": "Palavra Var\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:52:08.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
