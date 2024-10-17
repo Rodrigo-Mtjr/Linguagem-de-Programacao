@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Upcasting e Downcasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{150B03F9-DDFC-4421-B35B-45D72C0328D3}|Upcasting e Downcasting\\Upcasting e Downcasting.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\upcasting e downcasting\\upcasting e downcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150B03F9-DDFC-4421-B35B-45D72C0328D3}|Upcasting e Downcasting\\Upcasting e Downcasting.csproj|solutionrelative:upcasting e downcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150B03F9-DDFC-4421-B35B-45D72C0328D3}|Upcasting e Downcasting\\Upcasting e Downcasting.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\upcasting e downcasting\\upcasting e downcasting\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150B03F9-DDFC-4421-B35B-45D72C0328D3}|Upcasting e Downcasting\\Upcasting e Downcasting.csproj|solutionrelative:upcasting e downcasting\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150B03F9-DDFC-4421-B35B-45D72C0328D3}|Upcasting e Downcasting\\Upcasting e Downcasting.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\upcasting e downcasting\\upcasting e downcasting\\contaempresarial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150B03F9-DDFC-4421-B35B-45D72C0328D3}|Upcasting e Downcasting\\Upcasting e Downcasting.csproj|solutionrelative:upcasting e downcasting\\contaempresarial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150B03F9-DDFC-4421-B35B-45D72C0328D3}|Upcasting e Downcasting\\Upcasting e Downcasting.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\upcasting e downcasting\\upcasting e downcasting\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150B03F9-DDFC-4421-B35B-45D72C0328D3}|Upcasting e Downcasting\\Upcasting e Downcasting.csproj|solutionrelative:upcasting e downcasting\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Upcasting e Downcasting\\Upcasting e Downcasting\\Program.cs",
+              "RelativeDocumentMoniker": "Upcasting e Downcasting\\Program.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Upcasting e Downcasting\\Upcasting e Downcasting\\Program.cs",
+              "RelativeToolTip": "Upcasting e Downcasting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:18:09.505Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Upcasting e Downcasting\\Upcasting e Downcasting\\Conta.cs",
+              "RelativeDocumentMoniker": "Upcasting e Downcasting\\Conta.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Upcasting e Downcasting\\Upcasting e Downcasting\\Conta.cs",
+              "RelativeToolTip": "Upcasting e Downcasting\\Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:19:50Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Upcasting e Downcasting\\Upcasting e Downcasting\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "Upcasting e Downcasting\\ContaPoupanca.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Upcasting e Downcasting\\Upcasting e Downcasting\\ContaPoupanca.cs",
+              "RelativeToolTip": "Upcasting e Downcasting\\ContaPoupanca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:27:02.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaEmpresarial.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Upcasting e Downcasting\\Upcasting e Downcasting\\ContaEmpresarial.cs",
+              "RelativeDocumentMoniker": "Upcasting e Downcasting\\ContaEmpresarial.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Upcasting e Downcasting\\Upcasting e Downcasting\\ContaEmpresarial.cs",
+              "RelativeToolTip": "Upcasting e Downcasting\\ContaEmpresarial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:19:59.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

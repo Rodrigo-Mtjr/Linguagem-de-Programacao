@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classes Abstrastas\Classes Abstrastas\bin\Debug\net8.0\Classes Abstrastas.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classes Abstrastas\Classes Abstrastas\bin\Debug\net8.0\Classes Abstrastas.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classes Abstrastas\Classes Abstrastas\bin\Debug\net8.0\Classes Abstrastas.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classes Abstrastas\Classes Abstrastas\bin\Debug\net8.0\Classes Abstrastas.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classes Abstrastas\Classes Abstrastas\bin\Debug\net8.0\Classes Abstrastas.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classes Abstrastas\Classes Abstrastas\obj\Debug\net8.0\Classes Abstrastas.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classes Abstrastas\Classes Abstrastas\obj\Debug\net8.0\Classes Abstrastas.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classes Abstrastas\Classes Abstrastas\obj\Debug\net8.0\Classes Abstrastas.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classes Abstrastas\Classes Abstrastas\obj\Debug\net8.0\Classes Abstrastas.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classes Abstrastas\Classes Abstrastas\obj\Debug\net8.0\Classes Abstrastas.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classes Abstrastas\Classes Abstrastas\obj\Debug\net8.0\Classes Abstrastas.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classes Abstrastas\Classes Abstrastas\obj\Debug\net8.0\refint\Classes Abstrastas.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classes Abstrastas\Classes Abstrastas\obj\Debug\net8.0\Classes Abstrastas.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classes Abstrastas\Classes Abstrastas\obj\Debug\net8.0\Classes Abstrastas.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Classes Abstrastas\Classes Abstrastas\obj\Debug\net8.0\ref\Classes Abstrastas.dll

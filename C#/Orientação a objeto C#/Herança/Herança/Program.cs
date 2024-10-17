@@ -6,7 +6,7 @@ namespace Herança
     {
         static void Main(string[] args)
         {
-            
+            //Informações apenas nas classes criadas.
         }
     }
 }

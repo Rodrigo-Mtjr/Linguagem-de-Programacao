@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sobreposicao\Sobreposicao\bin\Debug\net8.0\Sobreposicao.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sobreposicao\Sobreposicao\bin\Debug\net8.0\Sobreposicao.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sobreposicao\Sobreposicao\bin\Debug\net8.0\Sobreposicao.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sobreposicao\Sobreposicao\bin\Debug\net8.0\Sobreposicao.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sobreposicao\Sobreposicao\bin\Debug\net8.0\Sobreposicao.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sobreposicao\Sobreposicao\obj\Debug\net8.0\refint\Sobreposicao.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Sobreposicao\Sobreposicao\obj\Debug\net8.0\ref\Sobreposicao.dll

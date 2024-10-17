@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Herança\Exercicios Herança\bin\Debug\net8.0\Exercicios Herança.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Herança\Exercicios Herança\bin\Debug\net8.0\Exercicios Herança.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Herança\Exercicios Herança\bin\Debug\net8.0\Exercicios Herança.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Herança\Exercicios Herança\bin\Debug\net8.0\Exercicios Herança.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Herança\Exercicios Herança\bin\Debug\net8.0\Exercicios Herança.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Herança\Exercicios Herança\obj\Debug\net8.0\Exercicios Herança.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Herança\Exercicios Herança\obj\Debug\net8.0\Exercicios Herança.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Herança\Exercicios Herança\obj\Debug\net8.0\Exercicios Herança.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Herança\Exercicios Herança\obj\Debug\net8.0\Exercicios Herança.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Herança\Exercicios Herança\obj\Debug\net8.0\Exercicios Herança.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Herança\Exercicios Herança\obj\Debug\net8.0\Exercicios Herança.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Herança\Exercicios Herança\obj\Debug\net8.0\refint\Exercicios Herança.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Herança\Exercicios Herança\obj\Debug\net8.0\Exercicios Herança.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Herança\Exercicios Herança\obj\Debug\net8.0\Exercicios Herança.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Herança\Exercicios Herança\obj\Debug\net8.0\ref\Exercicios Herança.dll

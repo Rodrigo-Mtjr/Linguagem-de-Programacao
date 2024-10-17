@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47568656-93B6-4DC3-A5F4-8329D37436C5}|Exercicios Heran\u00E7a\\Exercicios Heran\u00E7a.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\exercicios\\exercicios heran\u00E7a\\exercicios heran\u00E7a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47568656-93B6-4DC3-A5F4-8329D37436C5}|Exercicios Heran\u00E7a\\Exercicios Heran\u00E7a.csproj|solutionrelative:exercicios heran\u00E7a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47568656-93B6-4DC3-A5F4-8329D37436C5}|Exercicios Heran\u00E7a\\Exercicios Heran\u00E7a.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\exercicios\\exercicios heran\u00E7a\\exercicios heran\u00E7a\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47568656-93B6-4DC3-A5F4-8329D37436C5}|Exercicios Heran\u00E7a\\Exercicios Heran\u00E7a.csproj|solutionrelative:exercicios heran\u00E7a\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47568656-93B6-4DC3-A5F4-8329D37436C5}|Exercicios Heran\u00E7a\\Exercicios Heran\u00E7a.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\exercicios\\exercicios heran\u00E7a\\exercicios heran\u00E7a\\funcionarioterceirizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47568656-93B6-4DC3-A5F4-8329D37436C5}|Exercicios Heran\u00E7a\\Exercicios Heran\u00E7a.csproj|solutionrelative:exercicios heran\u00E7a\\funcionarioterceirizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a\\Exercicios Heran\u00E7a\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios Heran\u00E7a\\Program.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a\\Exercicios Heran\u00E7a\\Program.cs",
+              "RelativeToolTip": "Exercicios Heran\u00E7a\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:48:26.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuncionarioTerceirizado.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a\\Exercicios Heran\u00E7a\\FuncionarioTerceirizado.cs",
+              "RelativeDocumentMoniker": "Exercicios Heran\u00E7a\\FuncionarioTerceirizado.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a\\Exercicios Heran\u00E7a\\FuncionarioTerceirizado.cs",
+              "RelativeToolTip": "Exercicios Heran\u00E7a\\FuncionarioTerceirizado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:54:10.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a\\Exercicios Heran\u00E7a\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Exercicios Heran\u00E7a\\Funcionario.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a\\Exercicios Heran\u00E7a\\Funcionario.cs",
+              "RelativeToolTip": "Exercicios Heran\u00E7a\\Funcionario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:50:53.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

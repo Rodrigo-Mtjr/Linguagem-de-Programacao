@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7889B2B-E768-4BBD-945F-B20C126AB861}|Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\exercicios\\exercicios heran\u00E7a 2\\exercicios heran\u00E7a 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7889B2B-E768-4BBD-945F-B20C126AB861}|Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2.csproj|solutionrelative:exercicios heran\u00E7a 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7889B2B-E768-4BBD-945F-B20C126AB861}|Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\exercicios\\exercicios heran\u00E7a 2\\exercicios heran\u00E7a 2\\produtousado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7889B2B-E768-4BBD-945F-B20C126AB861}|Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2.csproj|solutionrelative:exercicios heran\u00E7a 2\\produtousado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7889B2B-E768-4BBD-945F-B20C126AB861}|Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\exercicios\\exercicios heran\u00E7a 2\\exercicios heran\u00E7a 2\\produtoimportado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7889B2B-E768-4BBD-945F-B20C126AB861}|Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2.csproj|solutionrelative:exercicios heran\u00E7a 2\\produtoimportado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7889B2B-E768-4BBD-945F-B20C126AB861}|Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\exercicios\\exercicios heran\u00E7a 2\\exercicios heran\u00E7a 2\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7889B2B-E768-4BBD-945F-B20C126AB861}|Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2.csproj|solutionrelative:exercicios heran\u00E7a 2\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios Heran\u00E7a 2\\Program.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2\\Program.cs",
+              "RelativeToolTip": "Exercicios Heran\u00E7a 2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:16:15.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoUsado.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2\\ProdutoUsado.cs",
+              "RelativeDocumentMoniker": "Exercicios Heran\u00E7a 2\\ProdutoUsado.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2\\ProdutoUsado.cs*",
+              "RelativeToolTip": "Exercicios Heran\u00E7a 2\\ProdutoUsado.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:25:03.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoImportado.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2\\ProdutoImportado.cs",
+              "RelativeDocumentMoniker": "Exercicios Heran\u00E7a 2\\ProdutoImportado.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2\\ProdutoImportado.cs*",
+              "RelativeToolTip": "Exercicios Heran\u00E7a 2\\ProdutoImportado.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:19:28.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2\\Produto.cs",
+              "RelativeDocumentMoniker": "Exercicios Heran\u00E7a 2\\Produto.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Exercicios\\Exercicios Heran\u00E7a 2\\Exercicios Heran\u00E7a 2\\Produto.cs*",
+              "RelativeToolTip": "Exercicios Heran\u00E7a 2\\Produto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:16:53.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

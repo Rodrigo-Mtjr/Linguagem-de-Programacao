@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Upcasting e Downcasting\Upcasting e Downcasting\bin\Debug\net8.0\Upcasting e Downcasting.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Upcasting e Downcasting\Upcasting e Downcasting\bin\Debug\net8.0\Upcasting e Downcasting.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Upcasting e Downcasting\Upcasting e Downcasting\bin\Debug\net8.0\Upcasting e Downcasting.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Upcasting e Downcasting\Upcasting e Downcasting\bin\Debug\net8.0\Upcasting e Downcasting.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Upcasting e Downcasting\Upcasting e Downcasting\bin\Debug\net8.0\Upcasting e Downcasting.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Upcasting e Downcasting\Upcasting e Downcasting\obj\Debug\net8.0\Upcasting e Downcasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Upcasting e Downcasting\Upcasting e Downcasting\obj\Debug\net8.0\Upcasting e Downcasting.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Upcasting e Downcasting\Upcasting e Downcasting\obj\Debug\net8.0\Upcasting e Downcasting.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Upcasting e Downcasting\Upcasting e Downcasting\obj\Debug\net8.0\Upcasting e Downcasting.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Upcasting e Downcasting\Upcasting e Downcasting\obj\Debug\net8.0\Upcasting e Downcasting.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Upcasting e Downcasting\Upcasting e Downcasting\obj\Debug\net8.0\Upcasting e Downcasting.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Upcasting e Downcasting\Upcasting e Downcasting\obj\Debug\net8.0\refint\Upcasting e Downcasting.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Upcasting e Downcasting\Upcasting e Downcasting\obj\Debug\net8.0\Upcasting e Downcasting.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Upcasting e Downcasting\Upcasting e Downcasting\obj\Debug\net8.0\Upcasting e Downcasting.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Upcasting e Downcasting\Upcasting e Downcasting\obj\Debug\net8.0\ref\Upcasting e Downcasting.dll
