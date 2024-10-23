@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Tratamentos de Exce\u00E7\u00F5es\\Exce\u00E7\u00F5es Personalizadas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDAA95E-63A5-4ED6-A243-68592231D3E1}|Exce\u00E7\u00F5es Personalizadas\\Exce\u00E7\u00F5es Personalizadas.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\tratamentos de exce\u00E7\u00F5es\\exce\u00E7\u00F5es personalizadas\\exce\u00E7\u00F5es personalizadas\\entidades\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDAA95E-63A5-4ED6-A243-68592231D3E1}|Exce\u00E7\u00F5es Personalizadas\\Exce\u00E7\u00F5es Personalizadas.csproj|solutionrelative:exce\u00E7\u00F5es personalizadas\\entidades\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDAA95E-63A5-4ED6-A243-68592231D3E1}|Exce\u00E7\u00F5es Personalizadas\\Exce\u00E7\u00F5es Personalizadas.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\tratamentos de exce\u00E7\u00F5es\\exce\u00E7\u00F5es personalizadas\\exce\u00E7\u00F5es personalizadas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDAA95E-63A5-4ED6-A243-68592231D3E1}|Exce\u00E7\u00F5es Personalizadas\\Exce\u00E7\u00F5es Personalizadas.csproj|solutionrelative:exce\u00E7\u00F5es personalizadas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDAA95E-63A5-4ED6-A243-68592231D3E1}|Exce\u00E7\u00F5es Personalizadas\\Exce\u00E7\u00F5es Personalizadas.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\tratamentos de exce\u00E7\u00F5es\\exce\u00E7\u00F5es personalizadas\\exce\u00E7\u00F5es personalizadas\\entidades\\excecoes\\dominioexececao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDAA95E-63A5-4ED6-A243-68592231D3E1}|Exce\u00E7\u00F5es Personalizadas\\Exce\u00E7\u00F5es Personalizadas.csproj|solutionrelative:exce\u00E7\u00F5es personalizadas\\entidades\\excecoes\\dominioexececao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Tratamentos de Exce\u00E7\u00F5es\\Exce\u00E7\u00F5es Personalizadas\\Exce\u00E7\u00F5es Personalizadas\\Program.cs",
+              "RelativeDocumentMoniker": "Exce\u00E7\u00F5es Personalizadas\\Program.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Tratamentos de Exce\u00E7\u00F5es\\Exce\u00E7\u00F5es Personalizadas\\Exce\u00E7\u00F5es Personalizadas\\Program.cs",
+              "RelativeToolTip": "Exce\u00E7\u00F5es Personalizadas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:01:36.806Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Tratamentos de Exce\u00E7\u00F5es\\Exce\u00E7\u00F5es Personalizadas\\Exce\u00E7\u00F5es Personalizadas\\Entidades\\Reserva.cs",
+              "RelativeDocumentMoniker": "Exce\u00E7\u00F5es Personalizadas\\Entidades\\Reserva.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Tratamentos de Exce\u00E7\u00F5es\\Exce\u00E7\u00F5es Personalizadas\\Exce\u00E7\u00F5es Personalizadas\\Entidades\\Reserva.cs",
+              "RelativeToolTip": "Exce\u00E7\u00F5es Personalizadas\\Entidades\\Reserva.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:04:00.738Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DominioExececao.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Tratamentos de Exce\u00E7\u00F5es\\Exce\u00E7\u00F5es Personalizadas\\Exce\u00E7\u00F5es Personalizadas\\Entidades\\Excecoes\\DominioExececao.cs",
+              "RelativeDocumentMoniker": "Exce\u00E7\u00F5es Personalizadas\\Entidades\\Excecoes\\DominioExececao.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Tratamentos de Exce\u00E7\u00F5es\\Exce\u00E7\u00F5es Personalizadas\\Exce\u00E7\u00F5es Personalizadas\\Entidades\\Excecoes\\DominioExececao.cs",
+              "RelativeToolTip": "Exce\u00E7\u00F5es Personalizadas\\Entidades\\Excecoes\\DominioExececao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:47:06.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

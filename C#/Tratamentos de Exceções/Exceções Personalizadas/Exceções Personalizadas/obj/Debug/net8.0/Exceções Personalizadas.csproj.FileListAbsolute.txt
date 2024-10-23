@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exceções Personalizadas\Exceções Personalizadas\bin\Debug\net8.0\Exceções Personalizadas.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exceções Personalizadas\Exceções Personalizadas\bin\Debug\net8.0\Exceções Personalizadas.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exceções Personalizadas\Exceções Personalizadas\bin\Debug\net8.0\Exceções Personalizadas.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exceções Personalizadas\Exceções Personalizadas\bin\Debug\net8.0\Exceções Personalizadas.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exceções Personalizadas\Exceções Personalizadas\bin\Debug\net8.0\Exceções Personalizadas.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exceções Personalizadas\Exceções Personalizadas\obj\Debug\net8.0\Exceções Personalizadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exceções Personalizadas\Exceções Personalizadas\obj\Debug\net8.0\Exceções Personalizadas.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exceções Personalizadas\Exceções Personalizadas\obj\Debug\net8.0\Exceções Personalizadas.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exceções Personalizadas\Exceções Personalizadas\obj\Debug\net8.0\Exceções Personalizadas.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exceções Personalizadas\Exceções Personalizadas\obj\Debug\net8.0\Exceções Personalizadas.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exceções Personalizadas\Exceções Personalizadas\obj\Debug\net8.0\Exceções Personalizadas.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exceções Personalizadas\Exceções Personalizadas\obj\Debug\net8.0\refint\Exceções Personalizadas.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exceções Personalizadas\Exceções Personalizadas\obj\Debug\net8.0\Exceções Personalizadas.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exceções Personalizadas\Exceções Personalizadas\obj\Debug\net8.0\Exceções Personalizadas.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exceções Personalizadas\Exceções Personalizadas\obj\Debug\net8.0\ref\Exceções Personalizadas.dll

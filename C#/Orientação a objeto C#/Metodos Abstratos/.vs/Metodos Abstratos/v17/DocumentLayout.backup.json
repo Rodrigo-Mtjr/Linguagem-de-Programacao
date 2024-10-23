@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Metodos Abstratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C5444A-8DC8-48C2-A822-87356CEA11D3}|Metodos Abstratos\\Metodos Abstratos.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\metodos abstratos\\metodos abstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C5444A-8DC8-48C2-A822-87356CEA11D3}|Metodos Abstratos\\Metodos Abstratos.csproj|solutionrelative:metodos abstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C5444A-8DC8-48C2-A822-87356CEA11D3}|Metodos Abstratos\\Metodos Abstratos.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\metodos abstratos\\metodos abstratos\\entidades\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C5444A-8DC8-48C2-A822-87356CEA11D3}|Metodos Abstratos\\Metodos Abstratos.csproj|solutionrelative:metodos abstratos\\entidades\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C5444A-8DC8-48C2-A822-87356CEA11D3}|Metodos Abstratos\\Metodos Abstratos.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\metodos abstratos\\metodos abstratos\\entidades\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C5444A-8DC8-48C2-A822-87356CEA11D3}|Metodos Abstratos\\Metodos Abstratos.csproj|solutionrelative:metodos abstratos\\entidades\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C5444A-8DC8-48C2-A822-87356CEA11D3}|Metodos Abstratos\\Metodos Abstratos.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\metodos abstratos\\metodos abstratos\\entidades\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C5444A-8DC8-48C2-A822-87356CEA11D3}|Metodos Abstratos\\Metodos Abstratos.csproj|solutionrelative:metodos abstratos\\entidades\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C5444A-8DC8-48C2-A822-87356CEA11D3}|Metodos Abstratos\\Metodos Abstratos.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\orienta\u00E7\u00E3o a objeto c#\\metodos abstratos\\metodos abstratos\\entidades\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C5444A-8DC8-48C2-A822-87356CEA11D3}|Metodos Abstratos\\Metodos Abstratos.csproj|solutionrelative:metodos abstratos\\entidades\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Metodos Abstratos\\Metodos Abstratos\\Program.cs",
+              "RelativeDocumentMoniker": "Metodos Abstratos\\Program.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Metodos Abstratos\\Metodos Abstratos\\Program.cs",
+              "RelativeToolTip": "Metodos Abstratos\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:46:55.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Metodos Abstratos\\Metodos Abstratos\\Entidades\\Circle.cs",
+              "RelativeDocumentMoniker": "Metodos Abstratos\\Entidades\\Circle.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Metodos Abstratos\\Metodos Abstratos\\Entidades\\Circle.cs",
+              "RelativeToolTip": "Metodos Abstratos\\Entidades\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:03:55.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Metodos Abstratos\\Metodos Abstratos\\Entidades\\Shape.cs",
+              "RelativeDocumentMoniker": "Metodos Abstratos\\Entidades\\Shape.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Metodos Abstratos\\Metodos Abstratos\\Entidades\\Shape.cs",
+              "RelativeToolTip": "Metodos Abstratos\\Entidades\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:48:23.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Metodos Abstratos\\Metodos Abstratos\\Entidades\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Metodos Abstratos\\Entidades\\Retangulo.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Metodos Abstratos\\Metodos Abstratos\\Entidades\\Retangulo.cs",
+              "RelativeToolTip": "Metodos Abstratos\\Entidades\\Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:48:16.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Color.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Metodos Abstratos\\Metodos Abstratos\\Entidades\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "Metodos Abstratos\\Entidades\\Enums\\Color.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Orienta\u00E7\u00E3o a objeto C#\\Metodos Abstratos\\Metodos Abstratos\\Entidades\\Enums\\Color.cs",
+              "RelativeToolTip": "Metodos Abstratos\\Entidades\\Enums\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:48:38.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

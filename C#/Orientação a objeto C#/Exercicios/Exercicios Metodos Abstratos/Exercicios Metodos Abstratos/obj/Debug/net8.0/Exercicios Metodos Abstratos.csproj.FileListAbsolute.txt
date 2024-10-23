@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Metodos Abstratos\Exercicios Metodos Abstratos\obj\Debug\net8.0\Exercicios Metodos Abstratos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Metodos Abstratos\Exercicios Metodos Abstratos\obj\Debug\net8.0\Exercicios Metodos Abstratos.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Metodos Abstratos\Exercicios Metodos Abstratos\obj\Debug\net8.0\Exercicios Metodos Abstratos.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Metodos Abstratos\Exercicios Metodos Abstratos\obj\Debug\net8.0\Exercicios Metodos Abstratos.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Metodos Abstratos\Exercicios Metodos Abstratos\obj\Debug\net8.0\Exercicios Metodos Abstratos.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Metodos Abstratos\Exercicios Metodos Abstratos\bin\Debug\net8.0\Exercicios Metodos Abstratos.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Metodos Abstratos\Exercicios Metodos Abstratos\bin\Debug\net8.0\Exercicios Metodos Abstratos.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Metodos Abstratos\Exercicios Metodos Abstratos\bin\Debug\net8.0\Exercicios Metodos Abstratos.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Metodos Abstratos\Exercicios Metodos Abstratos\bin\Debug\net8.0\Exercicios Metodos Abstratos.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Metodos Abstratos\Exercicios Metodos Abstratos\bin\Debug\net8.0\Exercicios Metodos Abstratos.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Metodos Abstratos\Exercicios Metodos Abstratos\obj\Debug\net8.0\Exercicios Metodos Abstratos.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Metodos Abstratos\Exercicios Metodos Abstratos\obj\Debug\net8.0\refint\Exercicios Metodos Abstratos.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Metodos Abstratos\Exercicios Metodos Abstratos\obj\Debug\net8.0\Exercicios Metodos Abstratos.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Metodos Abstratos\Exercicios Metodos Abstratos\obj\Debug\net8.0\Exercicios Metodos Abstratos.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Orientação a objeto C#\Exercicios\Exercicios Metodos Abstratos\Exercicios Metodos Abstratos\obj\Debug\net8.0\ref\Exercicios Metodos Abstratos.dll

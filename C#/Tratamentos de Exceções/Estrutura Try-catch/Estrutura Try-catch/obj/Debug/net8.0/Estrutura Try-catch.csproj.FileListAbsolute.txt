@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Estrutura Try-catch\Estrutura Try-catch\bin\Debug\net8.0\Estrutura Try-catch.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Estrutura Try-catch\Estrutura Try-catch\bin\Debug\net8.0\Estrutura Try-catch.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Estrutura Try-catch\Estrutura Try-catch\bin\Debug\net8.0\Estrutura Try-catch.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Estrutura Try-catch\Estrutura Try-catch\bin\Debug\net8.0\Estrutura Try-catch.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Estrutura Try-catch\Estrutura Try-catch\bin\Debug\net8.0\Estrutura Try-catch.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Estrutura Try-catch\Estrutura Try-catch\obj\Debug\net8.0\Estrutura Try-catch.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Estrutura Try-catch\Estrutura Try-catch\obj\Debug\net8.0\Estrutura Try-catch.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Estrutura Try-catch\Estrutura Try-catch\obj\Debug\net8.0\Estrutura Try-catch.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Estrutura Try-catch\Estrutura Try-catch\obj\Debug\net8.0\Estrutura Try-catch.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Estrutura Try-catch\Estrutura Try-catch\obj\Debug\net8.0\Estrutura Try-catch.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Estrutura Try-catch\Estrutura Try-catch\obj\Debug\net8.0\Estrutura Try-catch.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Estrutura Try-catch\Estrutura Try-catch\obj\Debug\net8.0\refint\Estrutura Try-catch.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Estrutura Try-catch\Estrutura Try-catch\obj\Debug\net8.0\Estrutura Try-catch.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Estrutura Try-catch\Estrutura Try-catch\obj\Debug\net8.0\Estrutura Try-catch.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Estrutura Try-catch\Estrutura Try-catch\obj\Debug\net8.0\ref\Estrutura Try-catch.dll

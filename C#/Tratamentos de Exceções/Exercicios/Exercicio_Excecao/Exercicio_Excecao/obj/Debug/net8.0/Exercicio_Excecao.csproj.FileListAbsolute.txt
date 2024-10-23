@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exercicios\Exercicio_Excecao\Exercicio_Excecao\bin\Debug\net8.0\Exercicio_Excecao.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exercicios\Exercicio_Excecao\Exercicio_Excecao\bin\Debug\net8.0\Exercicio_Excecao.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exercicios\Exercicio_Excecao\Exercicio_Excecao\bin\Debug\net8.0\Exercicio_Excecao.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exercicios\Exercicio_Excecao\Exercicio_Excecao\bin\Debug\net8.0\Exercicio_Excecao.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exercicios\Exercicio_Excecao\Exercicio_Excecao\bin\Debug\net8.0\Exercicio_Excecao.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exercicios\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\net8.0\Exercicio_Excecao.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exercicios\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\net8.0\Exercicio_Excecao.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exercicios\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\net8.0\Exercicio_Excecao.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exercicios\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\net8.0\Exercicio_Excecao.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exercicios\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\net8.0\Exercicio_Excecao.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exercicios\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\net8.0\Exercicio_Excecao.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exercicios\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\net8.0\refint\Exercicio_Excecao.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exercicios\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\net8.0\Exercicio_Excecao.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exercicios\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\net8.0\Exercicio_Excecao.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Tratamentos de Exceções\Exercicios\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\net8.0\ref\Exercicio_Excecao.dll
