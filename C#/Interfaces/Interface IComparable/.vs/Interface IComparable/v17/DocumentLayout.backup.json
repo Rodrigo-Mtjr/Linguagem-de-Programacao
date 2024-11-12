@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Interface IComparable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29F92A82-C4CB-464E-A211-283F202CE17E}|Interface IComparable\\Interface IComparable.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\interfaces\\interface icomparable\\interface icomparable\\entidades\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F92A82-C4CB-464E-A211-283F202CE17E}|Interface IComparable\\Interface IComparable.csproj|solutionrelative:interface icomparable\\entidades\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F92A82-C4CB-464E-A211-283F202CE17E}|Interface IComparable\\Interface IComparable.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\interfaces\\interface icomparable\\interface icomparable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F92A82-C4CB-464E-A211-283F202CE17E}|Interface IComparable\\Interface IComparable.csproj|solutionrelative:interface icomparable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Interface IComparable\\Interface IComparable\\Program.cs",
+              "RelativeDocumentMoniker": "Interface IComparable\\Program.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Interface IComparable\\Interface IComparable\\Program.cs",
+              "RelativeToolTip": "Interface IComparable\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:45:26.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funcionarios.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Interface IComparable\\Interface IComparable\\Entidades\\Funcionarios.cs",
+              "RelativeDocumentMoniker": "Interface IComparable\\Entidades\\Funcionarios.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Interface IComparable\\Interface IComparable\\Entidades\\Funcionarios.cs",
+              "RelativeToolTip": "Interface IComparable\\Entidades\\Funcionarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:50:56.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

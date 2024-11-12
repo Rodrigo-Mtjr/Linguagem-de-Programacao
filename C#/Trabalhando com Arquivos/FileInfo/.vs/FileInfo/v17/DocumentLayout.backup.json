@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Trabalhando com Arquivos\\FileInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB86020A-FE49-4320-9DEF-B7480DD786A4}|FileInfo\\FileInfo.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\trabalhando com arquivos\\fileinfo\\fileinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB86020A-FE49-4320-9DEF-B7480DD786A4}|FileInfo\\FileInfo.csproj|solutionrelative:fileinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Trabalhando com Arquivos\\FileInfo\\FileInfo\\Program.cs",
+              "RelativeDocumentMoniker": "FileInfo\\Program.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Trabalhando com Arquivos\\FileInfo\\FileInfo\\Program.cs*",
+              "RelativeToolTip": "FileInfo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:30:55.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

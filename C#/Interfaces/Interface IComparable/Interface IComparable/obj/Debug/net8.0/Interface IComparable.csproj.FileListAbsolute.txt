@@ -1,0 +1,15 @@
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Interfaces\Interface IComparable\Interface IComparable\bin\Debug\net8.0\Interface IComparable.exe
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Interfaces\Interface IComparable\Interface IComparable\bin\Debug\net8.0\Interface IComparable.deps.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Interfaces\Interface IComparable\Interface IComparable\bin\Debug\net8.0\Interface IComparable.runtimeconfig.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Interfaces\Interface IComparable\Interface IComparable\bin\Debug\net8.0\Interface IComparable.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Interfaces\Interface IComparable\Interface IComparable\bin\Debug\net8.0\Interface IComparable.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Interfaces\Interface IComparable\Interface IComparable\obj\Debug\net8.0\Interface IComparable.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Interfaces\Interface IComparable\Interface IComparable\obj\Debug\net8.0\Interface IComparable.AssemblyInfoInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Interfaces\Interface IComparable\Interface IComparable\obj\Debug\net8.0\Interface IComparable.AssemblyInfo.cs
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Interfaces\Interface IComparable\Interface IComparable\obj\Debug\net8.0\Interface IComparable.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Interfaces\Interface IComparable\Interface IComparable\obj\Debug\net8.0\Interface IComparable.sourcelink.json
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Interfaces\Interface IComparable\Interface IComparable\obj\Debug\net8.0\Interface IComparable.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Interfaces\Interface IComparable\Interface IComparable\obj\Debug\net8.0\refint\Interface IComparable.dll
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Interfaces\Interface IComparable\Interface IComparable\obj\Debug\net8.0\Interface IComparable.pdb
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Interfaces\Interface IComparable\Interface IComparable\obj\Debug\net8.0\Interface IComparable.genruntimeconfig.cache
+D:\ARQUIVOS PARA GIT\Linguagem-de-Programacao\C#\Interfaces\Interface IComparable\Interface IComparable\obj\Debug\net8.0\ref\Interface IComparable.dll

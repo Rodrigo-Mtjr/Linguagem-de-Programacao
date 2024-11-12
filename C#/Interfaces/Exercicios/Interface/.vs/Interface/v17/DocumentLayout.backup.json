@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Exercicios\\Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23B78E43-A6EF-4CA9-BD42-CE2146A547B5}|Interface\\Interface.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\interfaces\\exercicios\\interface\\interface\\entidades\\parcelamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B78E43-A6EF-4CA9-BD42-CE2146A547B5}|Interface\\Interface.csproj|solutionrelative:interface\\entidades\\parcelamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B78E43-A6EF-4CA9-BD42-CE2146A547B5}|Interface\\Interface.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\interfaces\\exercicios\\interface\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B78E43-A6EF-4CA9-BD42-CE2146A547B5}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B78E43-A6EF-4CA9-BD42-CE2146A547B5}|Interface\\Interface.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\interfaces\\exercicios\\interface\\interface\\servicos\\servicocontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B78E43-A6EF-4CA9-BD42-CE2146A547B5}|Interface\\Interface.csproj|solutionrelative:interface\\servicos\\servicocontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B78E43-A6EF-4CA9-BD42-CE2146A547B5}|Interface\\Interface.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\interfaces\\exercicios\\interface\\interface\\servicos\\servicopaypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B78E43-A6EF-4CA9-BD42-CE2146A547B5}|Interface\\Interface.csproj|solutionrelative:interface\\servicos\\servicopaypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B78E43-A6EF-4CA9-BD42-CE2146A547B5}|Interface\\Interface.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\interfaces\\exercicios\\interface\\interface\\servicos\\iservicopagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B78E43-A6EF-4CA9-BD42-CE2146A547B5}|Interface\\Interface.csproj|solutionrelative:interface\\servicos\\iservicopagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B78E43-A6EF-4CA9-BD42-CE2146A547B5}|Interface\\Interface.csproj|d:\\arquivos para git\\linguagem-de-programacao\\c#\\interfaces\\exercicios\\interface\\interface\\entidades\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B78E43-A6EF-4CA9-BD42-CE2146A547B5}|Interface\\Interface.csproj|solutionrelative:interface\\entidades\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicoPaypal.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Exercicios\\Interface\\Interface\\Servicos\\ServicoPaypal.cs",
+              "RelativeDocumentMoniker": "Interface\\Servicos\\ServicoPaypal.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Exercicios\\Interface\\Interface\\Servicos\\ServicoPaypal.cs",
+              "RelativeToolTip": "Interface\\Servicos\\ServicoPaypal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:16:48.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServicoPagamento.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Exercicios\\Interface\\Interface\\Servicos\\IServicoPagamento.cs",
+              "RelativeDocumentMoniker": "Interface\\Servicos\\IServicoPagamento.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Exercicios\\Interface\\Interface\\Servicos\\IServicoPagamento.cs",
+              "RelativeToolTip": "Interface\\Servicos\\IServicoPagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:14:38.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parcelamento.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Exercicios\\Interface\\Interface\\Entidades\\Parcelamento.cs",
+              "RelativeDocumentMoniker": "Interface\\Entidades\\Parcelamento.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Exercicios\\Interface\\Interface\\Entidades\\Parcelamento.cs",
+              "RelativeToolTip": "Interface\\Entidades\\Parcelamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:07:02.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Exercicios\\Interface\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Exercicios\\Interface\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:02:01.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicoContrato.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Exercicios\\Interface\\Interface\\Servicos\\ServicoContrato.cs",
+              "RelativeDocumentMoniker": "Interface\\Servicos\\ServicoContrato.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Exercicios\\Interface\\Interface\\Servicos\\ServicoContrato.cs",
+              "RelativeToolTip": "Interface\\Servicos\\ServicoContrato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:31:05.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contrato.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Exercicios\\Interface\\Interface\\Entidades\\Contrato.cs",
+              "RelativeDocumentMoniker": "Interface\\Entidades\\Contrato.cs",
+              "ToolTip": "D:\\ARQUIVOS PARA GIT\\Linguagem-de-Programacao\\C#\\Interfaces\\Exercicios\\Interface\\Interface\\Entidades\\Contrato.cs",
+              "RelativeToolTip": "Interface\\Entidades\\Contrato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:03:02.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
